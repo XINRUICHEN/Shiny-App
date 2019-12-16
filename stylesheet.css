@@ -1,0 +1,44 @@
+/*header title font*/
+
+
+/*background color of header(logo)*/
+
+
+/*change the background color when mouse hover*/
+
+
+.skin-green  .main-sidebar  {
+    background-color: transparent;
+}
+
+        /*sider*/
+.skin-green  .main-sidebar .sidebar-menu  .active a{
+    background-color: orange;
+    color: #cce983;
+
+}
+.skin-green  .main-sidebar .sidebar-menu  .active a{
+    background-color: #cce983;
+    color: green;
+
+}
+.skin-green  .main-sidebar .sidebar-menu  .active a{
+    background-color: green;
+    color: brown;
+
+}
+
+.skin-green  .main-sidebar .sidebar .sidebar-menu a: hover{
+    background-color: green;
+    color:white;
+}
+
+.skin-green  .main-sidebar .sidebar .sidebar-menu a: hover{
+    background-color: white;
+    color:green;
+}
+.skin-green  .main-sidebar .sidebar .sidebar-menu a: hover{
+    background-color: brown;
+    color:white;
+}
+

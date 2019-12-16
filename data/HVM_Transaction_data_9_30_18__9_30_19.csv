@@ -1,0 +1,1548 @@
+Name,Item,Quantity (in lbs),Price $/lb,Amount (in $) ,Item1
+101 Rose's,214 : Lamb Trim,30.91,7.5,231.83,Lamb Trim
+101 Rose's,206 : Ground Lamb,9.99,8.25,82.42,Ground Lamb
+101 Rose's,124 : Oxtail,16.04,5.13,82.26,Oxtail
+101 Rose's,152: Mock Tender,5.91,4,23.64,ock Tender
+101 Rose's,209 : Lamb Neck,12,4.25,51,Lamb Neck
+101 Rose's,144 : Bone in Strip,23,12,276,Bone in Strip
+101 Rose's,131 : Skirt,32.46,7.51,243.71,Skirt
+101 Rose's,140 : Tri-Tip,41.44,7.5,310.8,Tri-Tip
+101 Rose's,409 : Pork Spare Ribs,233.255,3.83,893.39,Pork Spare Ribs
+101 Rose's,133 : Bnls Strip Loin,52.69,12.44,655.66,Bnls Strip Loin
+101 Rose's,119 : Ground Beef,3739.5,4.5,16827.82,Ground Beef
+101 Rose's,105 : Top Blade Roast,18.83,7.23,136.21,Top Blade Roast
+101 Rose's,406 : Pork Center Cut Rib Rack,5.32,9,47.88,Pork Center Cut Rib Rack
+101 Rose's,123 : Beef Organs,14.94,1.5,22.41,Beef Organs
+101 Rose's,212 : Lamb Shank,21.76,6.25,136,Lamb Shank
+101 Rose's,419 : Pork Trim,10.71,3.5,37.49,Pork Trim
+101 Rose's,128 : Short Ribs,13.97,4,55.88,Short Ribs
+101 Rose's,109 : Brisket,65.92,5.44,358.54,Brisket
+1012 Metta,116 : Eye of Round,260.31,6.5,1692.03,Eye of Round
+1012 Metta,140 : Tri-Tip,2.5,7.5,18.75,Tri-Tip
+1012 Metta,998: Dry Age Fee,271.16,1.05,283.61,ry Age Fee
+1012 Metta,133 : Bnls Strip Loin,951.27,13.26,12610.94,Bnls Strip Loin
+1012 Metta,115 : Export Ribeye,868.09,12,10417.08,Export Ribeye
+1012 Metta,421: Whole Pork Rib Roast,750.45,8.52,6395.1,hole Pork Rib Roast
+1012 Metta,142 : Chuck Underblade,7.5,9.5,71.25,Chuck Underblade
+1012 Metta,138 : Beef Tongue,6,0,0,Beef Tongue
+1012 Metta,127 : Beef Shanks,10,0,0,Beef Shanks
+1012 Metta,106 : Bone in Sirloin,22.3,7.5,167.25,Bone in Sirloin
+1012 Metta,406 : Pork Center Cut Rib Rack,147,8.64,1270.5,Pork Center Cut Rib Rack
+1012 Metta,123 : Beef Organs,231.09,1.5,346.66,Beef Organs
+1012 Metta,131 : Skirt,28.96,3.98,115.35,Skirt
+1012 Metta,Credit Card Fee,-59.2,1,-59.2, Card Fee
+1029 Grassfield's,130 : Bnls Top Sirloin Butt,12.8,8.5,108.8,Bnls Top Sirloin Butt
+1029 Grassfield's,115 : Export Ribeye,44.17,12,530.04,Export Ribeye
+1029 Grassfield's,109 : Brisket,47.74,5.55,264.96,Brisket
+1029 Grassfield's,404 : Pork Belly,22.5,5,112.5,Pork Belly
+1029 Grassfield's,128 : Short Ribs,14.14,6.5,91.91,Short Ribs
+1029 Grassfield's,131 : Skirt,2.44,8.5,20.74,Skirt
+1029 Grassfield's,409 : Pork Spare Ribs,17,3.5,59.5,Pork Spare Ribs
+1029 Grassfield's,208 : Leg of Lamb,31.745,8,253.96,Leg of Lamb
+103 Russet,403 : Pork Picnic Shoulder,16.7,5,83.5,Pork Picnic Shoulder
+103 Russet,112 : Chuck Eye,332.34,6.5,2160.21,Chuck Eye
+103 Russet,213 : Lamb Shoulder,102.7,7.85,806.6,Lamb Shoulder
+103 Russet,115 : Export Ribeye,57.84,12,694.08,Export Ribeye
+103 Russet,208 : Leg of Lamb,902.68,7.93,7162.52,Leg of Lamb
+103 Russet,128 : Short Ribs,25.04,6.5,162.76,Short Ribs
+103 Russet,111 : Chuck Roll,158.89,5.75,913.63,Chuck Roll
+1030 Art of Eating,135 : Tenderloin,22.51,18,405.18,Tenderloin
+1031 Saraghina,115 : Export Ribeye,46.48,12,557.76,Export Ribeye
+1031 Saraghina,402 : Pork Boston Butt,172.29,5.5,947.6,Pork Boston Butt
+1031 Saraghina,120 : Hanger Steak,136.97,8.5,1164.25,Hanger Steak
+1031 Saraghina,421: Whole Pork Rib Roast,32.8,9,295.2,hole Pork Rib Roast
+1031 Saraghina,127 : Beef Shanks,49.5,4.75,235.13,Beef Shanks
+1031 Saraghina,502 : Bacon,26.91,6,161.46,Bacon
+1031 Saraghina,131 : Skirt,26.07,8.5,221.6,Skirt
+1031 Saraghina,117 : Flank Steak,200.89,8.5,1707.58,Flank Steak
+1031 Saraghina,124 : Oxtail,59.5,7.25,431.38,Oxtail
+1031 Saraghina,144 : Bone in Strip,39.53,12,474.36,Bone in Strip
+1031 Saraghina,141 : Beef for Grinding,1802.16,4,7208.64,Beef for Grinding
+1031 Saraghina,108 : Bottom Round,230.88,5,1154.4,Bottom Round
+1031 Saraghina,128 : Short Ribs,21.5,6.5,139.75,Short Ribs
+1031 Saraghina,146 : Beef Patties,129.89,5,649.45,Beef Patties
+1031 Saraghina,107 : Beef Bones,30.35,2,60.7,Beef Bones
+1031 Saraghina,407 : Porterhouse Pork Chops,35.88,9,322.92,Porterhouse Pork Chops
+1031 Saraghina,997: Dry Age Cut/Vac/Portion,39.53,1.45,57.32,ry Age Cut/Vac/Portion
+1031 Saraghina,419 : Pork Trim,1126.45,3.5,3942.59,Pork Trim
+1031 Saraghina,202 : Lamb Bone in Breast,34.38,4.25,146.12,Lamb Bone in Breast
+1031 Saraghina,403 : Pork Picnic Shoulder,6.5,5,32.5,Pork Picnic Shoulder
+1031 Saraghina,140 : Tri-Tip,141.27,7.5,1059.53,Tri-Tip
+1051 Gotham Bar and Grill,995: Dry Age Cut,436.85,0.55,240.27,ry Age Cut
+1051 Gotham Bar and Grill,144 : Bone in Strip,546.51,12,6558.12,Bone in Strip
+1051 Gotham Bar and Grill,133 : Bnls Strip Loin,45.64,14,638.96,Bnls Strip Loin
+1051 Gotham Bar and Grill,130 : Bnls Top Sirloin Butt,11.65,8.5,99.03,Bnls Top Sirloin Butt
+1051 Gotham Bar and Grill,139 : Top Round,17.19,5.5,94.55,Top Round
+1051 Gotham Bar and Grill,142 : Chuck Underblade,11.26,9.5,106.97,Chuck Underblade
+1051 Gotham Bar and Grill,119 : Ground Beef,184.21,4.5,828.96,Ground Beef
+1051 Gotham Bar and Grill,998: Dry Age Fee,748.02,1.04,779.39,ry Age Fee
+1051 Gotham Bar and Grill,148 : Marrow Bones,10.7,2.5,26.75,Marrow Bones
+1051 Gotham Bar and Grill,997: Dry Age Cut/Vac/Portion,43.39,1.45,62.92,ry Age Cut/Vac/Portion
+1051 Gotham Bar and Grill,115 : Export Ribeye,155.87,12,1870.44,Export Ribeye
+1064 Agern,998: Dry Age Fee,34.5,1.05,36.23,ry Age Fee
+1064 Agern,142 : Chuck Underblade,4,8.5,34,Chuck Underblade
+1064 Agern,207 : Lamb Saddle Chops,7.46,10,74.6,Lamb Saddle Chops
+1064 Agern,213 : Lamb Shoulder,8.05,8,64.4,Lamb Shoulder
+1064 Agern,117 : Flank Steak,30.43,8.5,258.66,Flank Steak
+1064 Agern,208 : Leg of Lamb,10.31,8,82.48,Leg of Lamb
+1064 Agern,131 : Skirt,1.5,8.5,12.75,Skirt
+1064 Agern,140 : Tri-Tip,5,7.5,37.5,Tri-Tip
+1064 Agern,115 : Export Ribeye,529.41,12.45,6590.76,Export Ribeye
+1064 Agern,212 : Lamb Shank,5.89,6.25,36.81,Lamb Shank
+1073 Agriforaging Food Safety (Catskills Regional Harvest),403 : Pork Picnic Shoulder,49.34,5,246.7,Pork Picnic Shoulder
+1073 Agriforaging Food Safety (Catskills Regional Harvest),Bounced Check Fee,-1,20,-20,d Check Fee
+1073 Agriforaging Food Safety (Catskills Regional Harvest),168: Happy Valley Meatballs,10,0,0,appy Valley Meatballs
+1073 Agriforaging Food Safety (Catskills Regional Harvest),402 : Pork Boston Butt,135.66,5.13,696.6,Pork Boston Butt
+1073 Agriforaging Food Safety (Catskills Regional Harvest),139 : Top Round,91.53,5.4,494.44,Top Round
+1073 Agriforaging Food Safety (Catskills Regional Harvest),133 : Bnls Strip Loin,23.45,14,328.3,Bnls Strip Loin
+1073 Agriforaging Food Safety (Catskills Regional Harvest),108 : Bottom Round,98.12,4.9,480.45,Bottom Round
+1073 Agriforaging Food Safety (Catskills Regional Harvest),135 : Tenderloin,98.39,17.46,1718.21,Tenderloin
+1073 Agriforaging Food Safety (Catskills Regional Harvest),109 : Brisket,13.17,5.55,73.09,Brisket
+1073 Agriforaging Food Safety (Catskills Regional Harvest),144 : Bone in Strip,49.72,12,596.64,Bone in Strip
+1073 Agriforaging Food Safety (Catskills Regional Harvest),126 : Bnls Ribeye,614.63,13.95,8576.92,Bnls Ribeye
+1073 Agriforaging Food Safety (Catskills Regional Harvest),146 : Beef Patties,30.79,5,153.95,Beef Patties
+1073 Agriforaging Food Safety (Catskills Regional Harvest),130 : Bnls Top Sirloin Butt,41.98,8.05,337.82,Bnls Top Sirloin Butt
+1073 Agriforaging Food Safety (Catskills Regional Harvest),119 : Ground Beef,10.07,0,0,Ground Beef
+1073 Agriforaging Food Safety (Catskills Regional Harvest),107 : Beef Bones,29.07,2,58.14,Beef Bones
+1075 Reynard,144 : Bone in Strip,12.5,12,150,Bone in Strip
+1079 Joseph Leonard,400 : Whole Hog,193,4,772,Whole Hog
+108 Sean Dimin,216: Boneless Leg of Lamb,8.925,10,89.25,oneless Leg of Lamb
+108 Sean Dimin,107 : Beef Bones,10.1,2,20.2,Beef Bones
+108 Sean Dimin,407 : Porterhouse Pork Chops,15.5,9,139.5,Porterhouse Pork Chops
+108 Sean Dimin,119 : Ground Beef,20.2,5,101,Ground Beef
+108 Sean Dimin,131 : Skirt,23.19,8.5,197.12,Skirt
+108 Sean Dimin,161: 100% Grass Fed Beef,37.48,6,224.88,00% Grass Fed Beef
+108 Sean Dimin,116 : Eye of Round,12.15,6.5,78.98,Eye of Round
+"1085 Vista Food Exchange, Inc",127 : Beef Shanks,249.87,2.75,687.14,Beef Shanks
+"1085 Vista Food Exchange, Inc",144 : Bone in Strip,40.54,12,486.48,Bone in Strip
+"1085 Vista Food Exchange, Inc",168: Happy Valley Meatballs,10,7.24,72.4,appy Valley Meatballs
+"1085 Vista Food Exchange, Inc",119 : Ground Beef,10.18,4.5,45.81,Ground Beef
+"1085 Vista Food Exchange, Inc",107 : Beef Bones,941.65,1.28,1205.32,Beef Bones
+"1085 Vista Food Exchange, Inc",146 : Beef Patties,11.13,5,55.65,Beef Patties
+1092 Bowery Meat Company,144 : Bone in Strip,1824.72,12.01,21916.94,Bone in Strip
+1092 Bowery Meat Company,997: Dry Age Cut/Vac/Portion,1718.02,1,1718.02,ry Age Cut/Vac/Portion
+1092 Bowery Meat Company,213 : Lamb Shoulder,7.1,0,0,Lamb Shoulder
+1093 Kensington Quarters,159 : Beef Hind Quarter,194,4.77,925.38,Beef Hind Quarter
+1093 Kensington Quarters,128 : Short Ribs,55.9,7.13,398.71,Short Ribs
+1093 Kensington Quarters,111 : Chuck Roll,65.79,5.75,378.3,Chuck Roll
+1093 Kensington Quarters,118 : Flap Steak,54.61,8.5,464.19,Flap Steak
+1093 Kensington Quarters,142 : Chuck Underblade,1337.49,7.5,10031.23,Chuck Underblade
+1093 Kensington Quarters,146 : Beef Patties,11.09,5,55.45,Beef Patties
+1093 Kensington Quarters,154 : Delmonico Roast,4.89,8.5,41.57,Delmonico Roast
+1093 Kensington Quarters,130 : Bnls Top Sirloin Butt,1313.175,8.43,11069.55,Bnls Top Sirloin Butt
+1093 Kensington Quarters,107 : Beef Bones,1256.68,2,2513.36,Beef Bones
+1093 Kensington Quarters,115 : Export Ribeye,43,12,516,Export Ribeye
+1093 Kensington Quarters,148 : Marrow Bones,234.52,2.5,586.24,Marrow Bones
+1093 Kensington Quarters,144 : Bone in Strip,20.5,12,246,Bone in Strip
+1093 Kensington Quarters,109 : Brisket,22.03,5,110.15,Brisket
+1093 Kensington Quarters,139 : Top Round,726.8,5.34,3878.85,Top Round
+1093 Kensington Quarters,209 : Lamb Neck,17.5,4.25,74.38,Lamb Neck
+1093 Kensington Quarters,126 : Bnls Ribeye,13,14,182,Bnls Ribeye
+1093 Kensington Quarters,141 : Beef for Grinding,2982.04,4,11928.16,Beef for Grinding
+1093 Kensington Quarters,105 : Top Blade Roast,7.56,8.5,64.26,Top Blade Roast
+1093:1 Kensington Quarters : KQ Burger,146 : Beef Patties,3099.62,4.97,15391.34,Beef Patties
+1093:1 Kensington Quarters : KQ Burger,153: Chip Steak,602.58,7,4218.06,hip Steak
+1093:1 Kensington Quarters : KQ Burger,107 : Beef Bones,32.6,2,65.2,Beef Bones
+1095 Crowd Cow,140 : Tri-Tip,1512.59,7,10588.13,Tri-Tip
+1095 Crowd Cow,129 : Shortloin,1580.9,10,15809,Shortloin
+1095 Crowd Cow,115 : Export Ribeye,5004.13,11.95,59777.93,Export Ribeye
+1095 Crowd Cow,111 : Chuck Roll,2564.34,5.75,14744.96,Chuck Roll
+1095 Crowd Cow,118 : Flap Steak,21.19,8.5,180.12,Flap Steak
+1095 Crowd Cow,148 : Marrow Bones,120.93,2,241.86,Marrow Bones
+1095 Crowd Cow,130 : Bnls Top Sirloin Butt,4650.42,5.69,26446.44,Bnls Top Sirloin Butt
+1095 Crowd Cow,109 : Brisket,2299.16,5.6,12864.94,Brisket
+1095 Crowd Cow,168: Happy Valley Meatballs,10,7.24,72.4,appy Valley Meatballs
+1095 Crowd Cow,117 : Flank Steak,690.78,8.5,5871.69,Flank Steak
+1095 Crowd Cow,133 : Bnls Strip Loin,4829.27,11,53121.97,Bnls Strip Loin
+1095 Crowd Cow,124 : Oxtail,210.67,6,1264.02,Oxtail
+1095 Crowd Cow,135 : Tenderloin,1948.83,13,25334.79,Tenderloin
+1095 Crowd Cow,120 : Hanger Steak,310.99,7.2,2239.2,Hanger Steak
+1095 Crowd Cow,Shipping,-150,1,-150,ng
+1095 Crowd Cow,138 : Beef Tongue,87.27,7.5,654.53,Beef Tongue
+1095 Crowd Cow,128 : Short Ribs,497.31,6.5,3232.52,Short Ribs
+1095 Crowd Cow,131 : Skirt,371.13,8.5,3154.62,Skirt
+1095 Crowd Cow,141 : Beef for Grinding,1200.02,3.66,4397.99,Beef for Grinding
+1095 Crowd Cow,105 : Top Blade Roast,3203.31,6.09,19503.14,Top Blade Roast
+1098 Branch Patty,119 : Ground Beef,181.61,4.5,817.25,Ground Beef
+1099 Fleisher's : Fleisher's: Park Slope,109 : Brisket,2499.42,5.22,13046.99,Brisket
+1099 Fleisher's : Fleisher's: Park Slope,120 : Hanger Steak,353.67,8.5,3006.25,Hanger Steak
+1099 Fleisher's : Fleisher's: Park Slope,135 : Tenderloin,650.06,17.99,11694.57,Tenderloin
+1099 Fleisher's : Fleisher's: Park Slope,118 : Flap Steak,246.41,8.5,2094.51,Flap Steak
+1099 Fleisher's : Fleisher's: Park Slope,142 : Chuck Underblade,298.63,8.97,2678.99,Chuck Underblade
+1099 Fleisher's : Fleisher's: Park Slope,100 : Whole Beef,711,3.86,2744.46,Whole Beef
+1099 Fleisher's : Fleisher's: Park Slope,113 : Shoulder Clod,1415.12,5.28,7471.88,Shoulder Clod
+1099 Fleisher's : Fleisher's: Park Slope,105 : Top Blade Roast,1829.24,8.03,14688.8,Top Blade Roast
+1099 Fleisher's : Fleisher's: Park Slope,148 : Marrow Bones,368.325,2.5,920.85,Marrow Bones
+1099 Fleisher's : Fleisher's: Park Slope,112 : Chuck Eye,51.64,6.5,335.67,Chuck Eye
+1099 Fleisher's : Fleisher's: Park Slope,137 : Teres Major,125.84,8.5,1069.7,Teres Major
+1099 Fleisher's : Fleisher's: Park Slope,124 : Oxtail,213.38,6.39,1363.5,Oxtail
+1099 Fleisher's : Fleisher's: Park Slope,133 : Bnls Strip Loin,50.01,14,700.14,Bnls Strip Loin
+1099 Fleisher's : Fleisher's: Park Slope,127 : Beef Shanks,48.95,4.75,232.51,Beef Shanks
+1099 Fleisher's : Fleisher's: Park Slope,199 : Half Beef,379,4,1516,Half Beef
+1099 Fleisher's : Fleisher's: Park Slope,108 : Bottom Round,26.95,5,134.75,Bottom Round
+1099 Fleisher's : Fleisher's: Park Slope,111 : Chuck Roll,1717.18,5.4,9278.71,Chuck Roll
+1099 Fleisher's : Fleisher's: Park Slope,116 : Eye of Round,123.185,5.29,651.66,Eye of Round
+1099 Fleisher's : Fleisher's: Park Slope,115 : Export Ribeye,4821.775,12,57861.3,Export Ribeye
+1099 Fleisher's : Fleisher's: Park Slope,140 : Tri-Tip,410.64,6.25,2566.56,Tri-Tip
+1099 Fleisher's : Fleisher's: Park Slope,131 : Skirt,686.19,8.5,5832.68,Skirt
+1099 Fleisher's : Fleisher's: Park Slope,128 : Short Ribs,965.62,6.5,6276.62,Short Ribs
+1099 Fleisher's : Fleisher's: Park Slope,172: Clod Heart,35.62,4,142.48,lod Heart
+1099 Fleisher's : Fleisher's: Park Slope,167 : Sirloin Tip,45.315,5.19,235.18,Sirloin Tip
+1099 Fleisher's : Fleisher's: Park Slope,107 : Beef Bones,172.09,1.92,329.67,Beef Bones
+1099 Fleisher's : Fleisher's: Park Slope,117 : Flank Steak,542.1,8.5,4607.89,Flank Steak
+1099 Fleisher's : Fleisher's: Park Slope,139 : Top Round,142.37,5.15,733.21,Top Round
+1099 Fleisher's : Fleisher's: Park Slope,130 : Bnls Top Sirloin Butt,1551.59,8.5,13188.59,Bnls Top Sirloin Butt
+1099 Fleisher's : Fleisher's: Park Slope,144 : Bone in Strip,2748.155,12,32977.86,Bone in Strip
+1100 Fleisher's : Fleisher's: Greenwich,133 : Bnls Strip Loin,25.2,14,352.8,Bnls Strip Loin
+1100 Fleisher's : Fleisher's: Greenwich,118 : Flap Steak,327.28,8.5,2781.91,Flap Steak
+1100 Fleisher's : Fleisher's: Greenwich,124 : Oxtail,98.93,6.39,632.18,Oxtail
+1100 Fleisher's : Fleisher's: Greenwich,105 : Top Blade Roast,1033.04,8.03,8295.33,Top Blade Roast
+1100 Fleisher's : Fleisher's: Greenwich,127 : Beef Shanks,28.55,4.75,135.61,Beef Shanks
+1100 Fleisher's : Fleisher's: Greenwich,117 : Flank Steak,426.26,8.5,3623.27,Flank Steak
+1100 Fleisher's : Fleisher's: Greenwich,113 : Shoulder Clod,800.817,5.28,4228.31,Shoulder Clod
+1100 Fleisher's : Fleisher's: Greenwich,112 : Chuck Eye,39.25,6.5,255.13,Chuck Eye
+1100 Fleisher's : Fleisher's: Greenwich,131 : Skirt,468.83,8.5,3985.13,Skirt
+1100 Fleisher's : Fleisher's: Greenwich,140 : Tri-Tip,374.75,6.25,2342.22,Tri-Tip
+1100 Fleisher's : Fleisher's: Greenwich,148 : Marrow Bones,227.93,2.5,569.85,Marrow Bones
+1100 Fleisher's : Fleisher's: Greenwich,167 : Sirloin Tip,66.64,5.19,345.86,Sirloin Tip
+1100 Fleisher's : Fleisher's: Greenwich,115 : Export Ribeye,4660.74,12,55928.88,Export Ribeye
+1100 Fleisher's : Fleisher's: Greenwich,100 : Whole Beef,3056,3.95,12071.2,Whole Beef
+1100 Fleisher's : Fleisher's: Greenwich,128 : Short Ribs,923.25,6.5,6001.2,Short Ribs
+1100 Fleisher's : Fleisher's: Greenwich,120 : Hanger Steak,262.72,8.5,2233.18,Hanger Steak
+1100 Fleisher's : Fleisher's: Greenwich,135 : Tenderloin,1057.19,17.99,19018.85,Tenderloin
+1100 Fleisher's : Fleisher's: Greenwich,199 : Half Beef,1542,4,6168,Half Beef
+1100 Fleisher's : Fleisher's: Greenwich,116 : Eye of Round,26.17,5.29,138.43,Eye of Round
+1100 Fleisher's : Fleisher's: Greenwich,142 : Chuck Underblade,280.72,9,2525.24,Chuck Underblade
+1100 Fleisher's : Fleisher's: Greenwich,130 : Bnls Top Sirloin Butt,2146.085,8.5,18241.78,Bnls Top Sirloin Butt
+1100 Fleisher's : Fleisher's: Greenwich,137 : Teres Major,115.14,8.5,978.76,Teres Major
+1100 Fleisher's : Fleisher's: Greenwich,144 : Bone in Strip,2870.99,12,34451.88,Bone in Strip
+1100 Fleisher's : Fleisher's: Greenwich,123 : Beef Organs,36.86,1.5,55.29,Beef Organs
+1100 Fleisher's : Fleisher's: Greenwich,111 : Chuck Roll,1528.31,5.28,8072.32,Chuck Roll
+1100 Fleisher's : Fleisher's: Greenwich,108 : Bottom Round,111.88,5,559.4,Bottom Round
+1100 Fleisher's : Fleisher's: Greenwich,109 : Brisket,1074.175,5.22,5607.18,Brisket
+1100 Fleisher's : Fleisher's: Greenwich,139 : Top Round,35.59,5.15,183.29,Top Round
+1101 Fleisher's : Fleisher's: Upper East Side,127 : Beef Shanks,15.6,4.75,74.1,Beef Shanks
+1101 Fleisher's : Fleisher's: Upper East Side,120 : Hanger Steak,119.37,8.5,1014.71,Hanger Steak
+1101 Fleisher's : Fleisher's: Upper East Side,137 : Teres Major,81.56,8.5,693.29,Teres Major
+1101 Fleisher's : Fleisher's: Upper East Side,167 : Sirloin Tip,298.78,5.19,1550.66,Sirloin Tip
+1101 Fleisher's : Fleisher's: Upper East Side,116 : Eye of Round,45.155,5.29,238.87,Eye of Round
+1101 Fleisher's : Fleisher's: Upper East Side,138 : Beef Tongue,26.82,7.08,189.94,Beef Tongue
+1101 Fleisher's : Fleisher's: Upper East Side,112 : Chuck Eye,47.52,6.5,308.89,Chuck Eye
+1101 Fleisher's : Fleisher's: Upper East Side,105 : Top Blade Roast,643.01,8.03,5163.36,Top Blade Roast
+1101 Fleisher's : Fleisher's: Upper East Side,130 : Bnls Top Sirloin Butt,1109.075,8.5,9427.22,Bnls Top Sirloin Butt
+1101 Fleisher's : Fleisher's: Upper East Side,139 : Top Round,110.98,5.15,571.55,Top Round
+1101 Fleisher's : Fleisher's: Upper East Side,199 : Half Beef,387,4,1548,Half Beef
+1101 Fleisher's : Fleisher's: Upper East Side,124 : Oxtail,203.35,6.39,1299.41,Oxtail
+1101 Fleisher's : Fleisher's: Upper East Side,128 : Short Ribs,540.57,6.5,3513.77,Short Ribs
+1101 Fleisher's : Fleisher's: Upper East Side,113 : Shoulder Clod,802.03,5.28,4234.73,Shoulder Clod
+1101 Fleisher's : Fleisher's: Upper East Side,140 : Tri-Tip,161.95,6.25,1012.19,Tri-Tip
+1101 Fleisher's : Fleisher's: Upper East Side,108 : Bottom Round,108.1,5,540.5,Bottom Round
+1101 Fleisher's : Fleisher's: Upper East Side,133 : Bnls Strip Loin,72.88,14,1020.32,Bnls Strip Loin
+1101 Fleisher's : Fleisher's: Upper East Side,107 : Beef Bones,21.35,2.5,53.38,Beef Bones
+1101 Fleisher's : Fleisher's: Upper East Side,109 : Brisket,1518.665,5.22,7927.43,Brisket
+1101 Fleisher's : Fleisher's: Upper East Side,115 : Export Ribeye,1730.75,12,20769,Export Ribeye
+1101 Fleisher's : Fleisher's: Upper East Side,123 : Beef Organs,70.7,1.5,106.06,Beef Organs
+1101 Fleisher's : Fleisher's: Upper East Side,148 : Marrow Bones,229.585,2.5,573.99,Marrow Bones
+1101 Fleisher's : Fleisher's: Upper East Side,118 : Flap Steak,182.63,8.5,1552.4,Flap Steak
+1101 Fleisher's : Fleisher's: Upper East Side,131 : Skirt,328.695,8.5,2793.97,Skirt
+1101 Fleisher's : Fleisher's: Upper East Side,111 : Chuck Roll,695.65,5.37,3733.79,Chuck Roll
+1101 Fleisher's : Fleisher's: Upper East Side,117 : Flank Steak,216.06,8.5,1836.56,Flank Steak
+1101 Fleisher's : Fleisher's: Upper East Side,135 : Tenderloin,1164.445,17.99,20948.39,Tenderloin
+1101 Fleisher's : Fleisher's: Upper East Side,144 : Bone in Strip,1033.625,12,12403.5,Bone in Strip
+1101 Fleisher's : Fleisher's: Upper East Side,142 : Chuck Underblade,169.21,9.04,1530.18,Chuck Underblade
+1102 Fleisher's : Fleisher's: Westport,199 : Half Beef,1885,4,7540,Half Beef
+1102 Fleisher's : Fleisher's: Westport,111 : Chuck Roll,675.53,5.43,3668.12,Chuck Roll
+1102 Fleisher's : Fleisher's: Westport,139 : Top Round,122.66,5.15,631.71,Top Round
+1102 Fleisher's : Fleisher's: Westport,144 : Bone in Strip,222.17,12,2666.04,Bone in Strip
+1102 Fleisher's : Fleisher's: Westport,113 : Shoulder Clod,433.27,5.28,2287.66,Shoulder Clod
+1102 Fleisher's : Fleisher's: Westport,142 : Chuck Underblade,149.4,8.86,1323.87,Chuck Underblade
+1102 Fleisher's : Fleisher's: Westport,118 : Flap Steak,127.92,8.5,1087.34,Flap Steak
+1102 Fleisher's : Fleisher's: Westport,137 : Teres Major,59.89,8.5,509.1,Teres Major
+1102 Fleisher's : Fleisher's: Westport,116 : Eye of Round,40.5,5.29,214.25,Eye of Round
+1102 Fleisher's : Fleisher's: Westport,130 : Bnls Top Sirloin Butt,413.38,8.37,3461.77,Bnls Top Sirloin Butt
+1102 Fleisher's : Fleisher's: Westport,167 : Sirloin Tip,119.95,5.19,622.56,Sirloin Tip
+1102 Fleisher's : Fleisher's: Westport,128 : Short Ribs,383.46,6.5,2492.56,Short Ribs
+1102 Fleisher's : Fleisher's: Westport,124 : Oxtail,71.795,6.39,458.78,Oxtail
+1102 Fleisher's : Fleisher's: Westport,123 : Beef Organs,268.63,1.5,402.96,Beef Organs
+1102 Fleisher's : Fleisher's: Westport,131 : Skirt,258.08,8.5,2193.75,Skirt
+1102 Fleisher's : Fleisher's: Westport,148 : Marrow Bones,35.8,2.5,89.5,Marrow Bones
+1102 Fleisher's : Fleisher's: Westport,108 : Bottom Round,109.77,5,548.85,Bottom Round
+1102 Fleisher's : Fleisher's: Westport,140 : Tri-Tip,211.94,6.25,1324.65,Tri-Tip
+1102 Fleisher's : Fleisher's: Westport,105 : Top Blade Roast,525.05,8.03,4216.18,Top Blade Roast
+1102 Fleisher's : Fleisher's: Westport,115 : Export Ribeye,265.02,12,3180.24,Export Ribeye
+1102 Fleisher's : Fleisher's: Westport,109 : Brisket,1359.43,5.22,7096.22,Brisket
+1102 Fleisher's : Fleisher's: Westport,120 : Hanger Steak,87.48,8.5,743.63,Hanger Steak
+1102 Fleisher's : Fleisher's: Westport,127 : Beef Shanks,143.48,4.75,681.54,Beef Shanks
+1102 Fleisher's : Fleisher's: Westport,107 : Beef Bones,49.68,1.83,90.91,Beef Bones
+1102 Fleisher's : Fleisher's: Westport,135 : Tenderloin,391.79,17.99,7048.31,Tenderloin
+1102 Fleisher's : Fleisher's: Westport,117 : Flank Steak,185.12,8.5,1573.57,Flank Steak
+1102 Fleisher's : Fleisher's: Westport,133 : Bnls Strip Loin,18.1,14,253.4,Bnls Strip Loin
+1105 Corner Slice NYC,416 : Pork Backfat,10.25,2,20.5,Pork Backfat
+1105 Corner Slice NYC,419 : Pork Trim,196.8,3.5,688.82,Pork Trim
+1105 Corner Slice NYC,402 : Pork Boston Butt,225.085,5.5,1237.97,Pork Boston Butt
+1105 Corner Slice NYC,119 : Ground Beef,925.61,4.5,4165.29,Ground Beef
+1105 Corner Slice NYC,403 : Pork Picnic Shoulder,84.03,5,420.15,Pork Picnic Shoulder
+1105 Corner Slice NYC,414 : Ground Pork,183.865,3.5,643.55,Ground Pork
+1106 Grano,209 : Lamb Neck,33.5,4.25,142.38,Lamb Neck
+1106 Grano,163: Hotdogs,5,4,20,otdogs
+1107 Bar Marco,421: Whole Pork Rib Roast,33.25,8,266,hole Pork Rib Roast
+1107 Bar Marco,402 : Pork Boston Butt,11.92,5.5,65.56,Pork Boston Butt
+1108 Mottley Kitchen,502 : Bacon,11,6,66,Bacon
+1108 Mottley Kitchen,140 : Tri-Tip,255.35,7.5,1915.14,Tri-Tip
+1108 Mottley Kitchen,168: Happy Valley Meatballs,140,7.24,1013.6,appy Valley Meatballs
+1108 Mottley Kitchen,131 : Skirt,134.56,8.5,1143.76,Skirt
+1108 Mottley Kitchen,119 : Ground Beef,98.73,4.5,444.29,Ground Beef
+1108 Mottley Kitchen,117 : Flank Steak,54.71,8.5,465.04,Flank Steak
+1111 Ho Foods,128 : Short Ribs,1.66,0,0,Short Ribs
+1111 Ho Foods,127 : Beef Shanks,5454.055,4.73,25824.53,Beef Shanks
+1111 Ho Foods,142 : Chuck Underblade,11.25,0,0,Chuck Underblade
+1111 Ho Foods,136 : Tendon,711.64,1.5,1067.55,Tendon
+1112 Pizza Moto,105 : Top Blade Roast,5.32,4,21.28,Top Blade Roast
+1112 Pizza Moto,142 : Chuck Underblade,11,4,44,Chuck Underblade
+1112 Pizza Moto,124 : Oxtail,9.62,4,38.48,Oxtail
+1112 Pizza Moto,116 : Eye of Round,26,4.8,124.75,Eye of Round
+1112 Pizza Moto,127 : Beef Shanks,9.92,4,39.68,Beef Shanks
+1112 Pizza Moto,409 : Pork Spare Ribs,11.3,5.75,64.98,Pork Spare Ribs
+1112 Pizza Moto,138 : Beef Tongue,2.21,5,11.05,Beef Tongue
+1112 Pizza Moto,119 : Ground Beef,1004.84,4.5,4521.81,Ground Beef
+1112 Pizza Moto,414 : Ground Pork,10.01,3.5,35.04,Ground Pork
+1112 Pizza Moto,122 : Beef Navel,13.64,6.5,88.66,Beef Navel
+1114 BeerZaar,126 : Bnls Ribeye,11,14,154,Bnls Ribeye
+1114 BeerZaar,119 : Ground Beef,110,4.5,495,Ground Beef
+1114 BeerZaar,163: Hotdogs,10,4,40,otdogs
+1114 BeerZaar,404 : Pork Belly,10.5,5,52.5,Pork Belly
+1115 Cadence Restaurant,130 : Bnls Top Sirloin Butt,10,7,70,Bnls Top Sirloin Butt
+1115 Cadence Restaurant,127 : Beef Shanks,19.95,4.75,94.76,Beef Shanks
+1115 Cadence Restaurant,111 : Chuck Roll,19.03,5.75,109.42,Chuck Roll
+1115 Cadence Restaurant,138 : Beef Tongue,5.99,5,29.95,Beef Tongue
+1115 Cadence Restaurant,118 : Flap Steak,695.57,8.5,5912.39,Flap Steak
+1115 Cadence Restaurant,421: Whole Pork Rib Roast,24.5,6,147,hole Pork Rib Roast
+1115 Cadence Restaurant,115 : Export Ribeye,354.8,12,4257.6,Export Ribeye
+1115 Cadence Restaurant,409 : Pork Spare Ribs,18.2,3,54.6,Pork Spare Ribs
+1115 Cadence Restaurant,405 : Pork Country Rib Rack,403.23,6,2419.38,Pork Country Rib Rack
+1115 Cadence Restaurant,126 : Bnls Ribeye,42.27,14,591.78,Bnls Ribeye
+1115 Cadence Restaurant,131 : Skirt,4,4,16,Skirt
+1115 Cadence Restaurant,146 : Beef Patties,17.05,5,85.25,Beef Patties
+1115 Cadence Restaurant,212 : Lamb Shank,18.77,6.25,117.31,Lamb Shank
+1115 Cadence Restaurant,997: Dry Age Cut/Vac/Portion,325.23,1.45,471.58,ry Age Cut/Vac/Portion
+1115 Cadence Restaurant,133 : Bnls Strip Loin,99.07,14,1386.98,Bnls Strip Loin
+1115 Cadence Restaurant,105 : Top Blade Roast,9.99,4,39.96,Top Blade Roast
+1116 Suraya,111 : Chuck Roll,271.58,5.75,1561.58,Chuck Roll
+1116 Suraya,109 : Brisket,135.71,5.55,753.19,Brisket
+1117 Osa,130 : Bnls Top Sirloin Butt,147.38,7.5,1105.36,Bnls Top Sirloin Butt
+1117 Osa,133 : Bnls Strip Loin,28.5,7.5,213.75,Bnls Strip Loin
+1117 Osa,202 : Lamb Bone in Breast,72.5,5.25,380.63,Lamb Bone in Breast
+1121 Frenchette,115 : Export Ribeye,4847.96,12,58175.52,Export Ribeye
+1121 Frenchette,120 : Hanger Steak,31.82,8.5,270.47,Hanger Steak
+1121 Frenchette,144 : Bone in Strip,655.93,10.17,6668.16,Bone in Strip
+1121 Frenchette,105 : Top Blade Roast,145.93,6.91,1008.28,Top Blade Roast
+1121 Frenchette,208 : Leg of Lamb,141.55,8,1132.4,Leg of Lamb
+1121 Frenchette,133 : Bnls Strip Loin,421.15,13.07,5505.14,Bnls Strip Loin
+1121 Frenchette,118 : Flap Steak,4549.44,8.5,38670.44,Flap Steak
+1121 Frenchette,140 : Tri-Tip,14.78,4,59.12,Tri-Tip
+1121 Frenchette,123 : Beef Organs,134.47,1.9,255.34,Beef Organs
+1121 Frenchette,124 : Oxtail,321.41,5.16,1658.59,Oxtail
+1121 Frenchette,109 : Brisket,76.76,5.55,426.02,Brisket
+1121 Frenchette,209 : Lamb Neck,108.99,4.25,463.21,Lamb Neck
+1121 Frenchette,135 : Tenderloin,525.46,14.81,7783.9,Tenderloin
+1121 Frenchette,213 : Lamb Shoulder,57.84,7.7,445.5,Lamb Shoulder
+1121 Frenchette,202 : Lamb Bone in Breast,40.5,5.25,212.63,Lamb Bone in Breast
+1121 Frenchette,211 : Lamb Saddle,280.545,9.65,2706.95,Lamb Saddle
+1121 Frenchette,138 : Beef Tongue,59.51,5.53,328.99,Beef Tongue
+1121 Frenchette,998: Dry Age Fee,5084.53,1,5084.53,ry Age Fee
+1122 Community Restaurant,119 : Ground Beef,6674.15,4.5,30033.76,Ground Beef
+1123 Camperdown Elm,119 : Ground Beef,1470.36,4.5,6616.66,Ground Beef
+1124 Halifax,146 : Beef Patties,2185.16,5,10925.8,Beef Patties
+1124 Halifax,124 : Oxtail,19.84,5,99.2,Oxtail
+1124 Halifax,139 : Top Round,43.5,5.5,239.25,Top Round
+1124 Halifax,115 : Export Ribeye,1579.14,12,18949.68,Export Ribeye
+1124 Halifax,998: Dry Age Fee,1612.64,1.05,1693.27,ry Age Fee
+1124 Halifax,997: Dry Age Cut/Vac/Portion,1338.61,1.45,1941.01,ry Age Cut/Vac/Portion
+1124 Halifax,144 : Bone in Strip,82,12,984,Bone in Strip
+1124 Halifax,409 : Pork Spare Ribs,29.5,3.5,103.25,Pork Spare Ribs
+1124 Halifax,123 : Beef Organs,6.58,1.5,9.87,Beef Organs
+1127 I Sodi,109 : Brisket,20.87,5.55,115.83,Brisket
+1130 Zweigle’s Inc,141 : Beef for Grinding,3504,3.05,10687.2,Beef for Grinding
+1136 The Common Market,168: Happy Valley Meatballs,10,7.24,72.4,appy Valley Meatballs
+1136 The Common Market,165: 4oz Frozen Mushroom Patties 30#/cs,1322.3,3.75,4958.63,oz Frozen Mushroom Patties 30#/cs
+1137 Bao•logy,109 : Brisket,367.83,5.55,2041.46,Brisket
+1140 Race West,160: Ground Beef Mushroom Blend,135.25,6.82,921.84,round Beef Mushroom Blend
+1142 La Divisa Meats,140 : Tri-Tip,5,7.5,37.5,Tri-Tip
+1142 La Divisa Meats,130 : Bnls Top Sirloin Butt,16,7.5,120,Bnls Top Sirloin Butt
+1142 La Divisa Meats,142 : Chuck Underblade,18.5,7.5,138.75,Chuck Underblade
+1142 La Divisa Meats,118 : Flap Steak,7.57,8.5,64.35,Flap Steak
+1142 La Divisa Meats,148 : Marrow Bones,10,2.5,25,Marrow Bones
+1142 La Divisa Meats,126 : Bnls Ribeye,14,14,196,Bnls Ribeye
+1142 La Divisa Meats,117 : Flank Steak,7.08,8.5,60.18,Flank Steak
+1142 La Divisa Meats,133 : Bnls Strip Loin,13,14,182,Bnls Strip Loin
+1142 La Divisa Meats,108 : Bottom Round,21.19,5,105.95,Bottom Round
+1144 Bar Uni,119 : Ground Beef,30.5,4.5,137.25,Ground Beef
+1145 Naya,153: Chip Steak,34.62,7.5,259.65,hip Steak
+1145:1 Naya : Naya: 3rd Ave,119 : Ground Beef,778.4,3.99,3105.81,Ground Beef
+1145:2 Naya : Naya : 1 New York Plaza,119 : Ground Beef,324.85,3.99,1296.15,Ground Beef
+1145:3 Naya : Naya : Madison Ave,119 : Ground Beef,525.95,3.99,2098.54,Ground Beef
+1145:4 Naya : Naya : Mezze & Grill,119 : Ground Beef,192.35,3.99,767.48,Ground Beef
+1149 Delmonico's,135 : Tenderloin,382.92,20,7658.4,Tenderloin
+115 St. Anselm,207 : Lamb Saddle Chops,238.235,10,2382.35,Lamb Saddle Chops
+115 St. Anselm,119 : Ground Beef,431.74,4.5,1942.87,Ground Beef
+115 St. Anselm,211 : Lamb Saddle,15.42,10,154.2,Lamb Saddle
+115 St. Anselm,105 : Top Blade Roast,5.1,8.5,43.35,Top Blade Roast
+115 St. Anselm,130 : Bnls Top Sirloin Butt,4029.855,7.5,30223.99,Bnls Top Sirloin Butt
+1151 The Brickyard Restaurant and Ale House,146 : Beef Patties,1543.08,5,7715.4,Beef Patties
+1152 Acme,124 : Oxtail,137.31,6.52,895.61,Oxtail
+1152 Acme,131 : Skirt,207.95,8.3,1726.58,Skirt
+1152 Acme,118 : Flap Steak,27.62,8,220.96,Flap Steak
+1152 Acme,409 : Pork Spare Ribs,187.83,4.16,782.05,Pork Spare Ribs
+1152 Acme,601 : Pasture Raised Chicken  3.26 lb to 3.75 lb,44.55,4,178.2,Pasture Raised Chicken  3.26 lb to 3.75 lb
+1152 Acme,168: Happy Valley Meatballs,10,7.24,72.4,appy Valley Meatballs
+1152 Acme,138 : Beef Tongue,29.56,5.12,151.45,Beef Tongue
+1152 Acme,404 : Pork Belly,30.92,4.65,143.73,Pork Belly
+1152 Acme,997: Dry Age Cut/Vac/Portion,483.37,1.45,700.89,ry Age Cut/Vac/Portion
+1152 Acme,146 : Beef Patties,7.24,5,36.2,Beef Patties
+1152 Acme,126 : Bnls Ribeye,21.5,14,301,Bnls Ribeye
+1152 Acme,140 : Tri-Tip,622.32,7.5,4667.43,Tri-Tip
+1152 Acme,135 : Tenderloin,295.14,18,5312.52,Tenderloin
+1152 Acme,142 : Chuck Underblade,289.27,9.43,2729.1,Chuck Underblade
+1152 Acme,207 : Lamb Saddle Chops,7.62,10,76.2,Lamb Saddle Chops
+1152 Acme,119 : Ground Beef,798.26,4.5,3592.22,Ground Beef
+1152 Acme,117 : Flank Steak,488.22,8.45,4125.41,Flank Steak
+1152 Acme,998: Dry Age Fee,667.955,1.05,701.36,ry Age Fee
+1152 Acme,115 : Export Ribeye,108.48,12,1301.76,Export Ribeye
+1152 Acme,402 : Pork Boston Butt,39.79,5.23,208.28,Pork Boston Butt
+1152 Acme,116 : Eye of Round,12.16,4,48.64,Eye of Round
+1152 Acme,502 : Bacon,21.39,6,128.34,Bacon
+1152 Acme,148 : Marrow Bones,274.57,2.5,686.47,Marrow Bones
+1152 Acme,144 : Bone in Strip,1242.955,11.86,14747.66,Bone in Strip
+1152 Acme,127 : Beef Shanks,9,4,36,Beef Shanks
+1152 Acme,202 : Lamb Bone in Breast,16.54,5.25,86.84,Lamb Bone in Breast
+1152 Acme,105 : Top Blade Roast,201.5,6.77,1363.7,Top Blade Roast
+1152 Acme,130 : Bnls Top Sirloin Butt,303.08,8.17,2476.88,Bnls Top Sirloin Butt
+1152 Acme,109 : Brisket,32.98,5.26,173.62,Brisket
+1157 The Hive Restaurant,405 : Pork Country Rib Rack,6,0,0,Pork Country Rib Rack
+1157 The Hive Restaurant,402 : Pork Boston Butt,19,5.5,104.5,Pork Boston Butt
+1157 The Hive Restaurant,406 : Pork Center Cut Rib Rack,26.5,9,238.5,Pork Center Cut Rib Rack
+1157 The Hive Restaurant,128 : Short Ribs,10.22,6.5,66.43,Short Ribs
+1157 The Hive Restaurant,146 : Beef Patties,1622.025,5,8110.13,Beef Patties
+1157 The Hive Restaurant,131 : Skirt,208.18,8.5,1769.64,Skirt
+1158 Lost Bread Company,138 : Beef Tongue,21,7.5,157.5,Beef Tongue
+1161 La Petite Maison - Miami,998: Dry Age Fee,148.91,1.05,156.36,ry Age Fee
+1161 La Petite Maison - Miami,995: Dry Age Cut,142.71,0.55,78.49,ry Age Cut
+1161 La Petite Maison - Miami,115 : Export Ribeye,205.88,11.55,2378.34,Export Ribeye
+1162 Sir Kensington's Trifecta Burger,149 : Frozen Mushroom Blend Patties,51,4,204,Frozen Mushroom Blend Patties
+1162 Sir Kensington's Trifecta Burger,165: 4oz Frozen Mushroom Patties 30#/cs,304.5,4,1218,oz Frozen Mushroom Patties 30#/cs
+1162 Sir Kensington's Trifecta Burger,107 : Beef Bones,11.76,2,23.52,Beef Bones
+1162 Sir Kensington's Trifecta Burger,123 : Beef Organs,32.7,1.5,49.05,Beef Organs
+"1163 The Standard, East Village",119 : Ground Beef,542.72,4.5,2442.24,Ground Beef
+"1163 The Standard, East Village",209 : Lamb Neck,1.62,4.25,6.89,Lamb Neck
+"1163 The Standard, East Village",146 : Beef Patties,124.54,5,622.7,Beef Patties
+"1163 The Standard, East Village",140 : Tri-Tip,92.44,5.49,507.8,Tri-Tip
+"1163 The Standard, East Village",142 : Chuck Underblade,568.74,7.99,4546.17,Chuck Underblade
+"1163 The Standard, East Village",141 : Beef for Grinding,774.335,4,3097.34,Beef for Grinding
+"1163 The Standard, East Village",404 : Pork Belly,41.5,5,207.5,Pork Belly
+"1163 The Standard, East Village",138 : Beef Tongue,9.5,4,38,Beef Tongue
+"1163 The Standard, East Village",213 : Lamb Shoulder,19.4,7.5,145.5,Lamb Shoulder
+"1163 The Standard, East Village",105 : Top Blade Roast,237.45,7.77,1845.82,Top Blade Roast
+"1163 The Standard, East Village",128 : Short Ribs,41.33,7.5,309.98,Short Ribs
+"1163 The Standard, East Village",409 : Pork Spare Ribs,5.6,3.25,18.2,Pork Spare Ribs
+"1163 The Standard, East Village",130 : Bnls Top Sirloin Butt,13,8.5,110.5,Bnls Top Sirloin Butt
+"1163 The Standard, East Village",115 : Export Ribeye,986.02,12,11832.24,Export Ribeye
+"1163 The Standard, East Village",168: Happy Valley Meatballs,30.71,7.24,222.34,appy Valley Meatballs
+"1163 The Standard, East Village",419 : Pork Trim,10.5,3.5,36.75,Pork Trim
+1164 Taqueria Diana,122 : Beef Navel,6.6,4.5,29.7,Beef Navel
+1164 Taqueria Diana,167 : Sirloin Tip,11.52,4.5,51.84,Sirloin Tip
+1169 Selamat Pagi,111 : Chuck Roll,1794.79,5.75,10320.11,Chuck Roll
+1169 Selamat Pagi,139 : Top Round,85,5.5,467.5,Top Round
+1169 Selamat Pagi,108 : Bottom Round,21.21,5,106.05,Bottom Round
+1169 Selamat Pagi,208 : Leg of Lamb,10,5.5,55,Leg of Lamb
+1169 Selamat Pagi,202 : Lamb Bone in Breast,4,4,16,Lamb Bone in Breast
+1169 Selamat Pagi,123 : Beef Organs,5.15,3,15.45,Beef Organs
+1169 Selamat Pagi,112 : Chuck Eye,498.01,5.83,2901.82,Chuck Eye
+1169 Selamat Pagi,130 : Bnls Top Sirloin Butt,307.86,8.5,2616.82,Bnls Top Sirloin Butt
+1170:1 The Grey Dog : The Grey Dog : Mulberry St.,111 : Chuck Roll,147.66,5.75,849.05,Chuck Roll
+1170:1 The Grey Dog : The Grey Dog : Mulberry St.,153: Chip Steak,4775.44,7.43,35479.89,hip Steak
+1170:1 The Grey Dog : The Grey Dog : Mulberry St.,146 : Beef Patties,3257.44,4.75,15472.92,Beef Patties
+1170:2 The Grey Dog : The Grey Dog : Chelsea,146 : Beef Patties,2839.61,4.75,13488.21,Beef Patties
+1170:2 The Grey Dog : The Grey Dog : Chelsea,105 : Top Blade Roast,15.25,4,61,Top Blade Roast
+1170:2 The Grey Dog : The Grey Dog : Chelsea,153: Chip Steak,1033.53,7.5,7751.53,hip Steak
+1170:3 The Grey Dog : The Grey Dog : West Village,105 : Top Blade Roast,13.24,4,52.96,Top Blade Roast
+1170:3 The Grey Dog : The Grey Dog : West Village,146 : Beef Patties,2017.33,4.92,9919.21,Beef Patties
+1170:3 The Grey Dog : The Grey Dog : West Village,153: Chip Steak,772.82,7.5,5796.21,hip Steak
+1170:4 The Grey Dog : The Grey Dog : University,153: Chip Steak,879.93,7.5,6599.52,hip Steak
+1170:4 The Grey Dog : The Grey Dog : University,146 : Beef Patties,2630.13,4.8,12628.56,Beef Patties
+1170:4 The Grey Dog : The Grey Dog : University,140 : Tri-Tip,10.8,0,0,Tri-Tip
+1185 Claro,209 : Lamb Neck,43.55,4.25,185.09,Lamb Neck
+1185 Claro,138 : Beef Tongue,8.5,5,42.5,Beef Tongue
+1185 Claro,123 : Beef Organs,6.28,2,12.56,Beef Organs
+1185 Claro,117 : Flank Steak,10.5,8.5,89.25,Flank Steak
+1188 Zizi Limona,131 : Skirt,425.99,8,3407.92,Skirt
+1188 Zizi Limona,128 : Short Ribs,761.21,6.7,5100.12,Short Ribs
+1188 Zizi Limona,140 : Tri-Tip,3.72,7.5,27.9,Tri-Tip
+1188 Zizi Limona,119 : Ground Beef,180.26,4.5,811.18,Ground Beef
+1188 Zizi Limona,135 : Tenderloin,7.47,18,134.46,Tenderloin
+1188 Zizi Limona,203 : Lamb Bones,18,3,54,Lamb Bones
+1188 Zizi Limona,202 : Lamb Bone in Breast,98.78,5.25,518.61,Lamb Bone in Breast
+1198 Clay,120 : Hanger Steak,9.5,4,38,Hanger Steak
+1198 Clay,213 : Lamb Shoulder,45.37,8,362.96,Lamb Shoulder
+1198 Clay,146 : Beef Patties,32.5,5,162.5,Beef Patties
+1198 Clay,127 : Beef Shanks,20,4,80,Beef Shanks
+1198 Clay,131 : Skirt,18.51,4,74.04,Skirt
+1198 Clay,404 : Pork Belly,21.5,5,107.5,Pork Belly
+1198 Clay,119 : Ground Beef,30,4.5,135,Ground Beef
+1198 Clay,116 : Eye of Round,10.1,4,40.4,Eye of Round
+1198 Clay,140 : Tri-Tip,10,4,40,Tri-Tip
+1198 Clay,133 : Bnls Strip Loin,68.68,14,961.52,Bnls Strip Loin
+1201 The Chefs' Warehouse,141 : Beef for Grinding,61358.95,3.25,199416.6,Beef for Grinding
+1201 The Chefs' Warehouse,168: Happy Valley Meatballs,632,7.24,4575.68,appy Valley Meatballs
+1215 Reed Brook Custom Meats - C,109 : Brisket,26.07,5.01,130.72,Brisket
+1216 Calhoun School,400 : Whole Hog,172,4,688,Whole Hog
+1216 Calhoun School,119 : Ground Beef,200.5,4.5,902.25,Ground Beef
+1216 Calhoun School,168: Happy Valley Meatballs,370,7.24,2678.8,appy Valley Meatballs
+1217 Porch and Proper,404 : Pork Belly,15.5,5,77.5,Pork Belly
+1217 Porch and Proper,135 : Tenderloin,11,18,198,Tenderloin
+1217 Porch and Proper,421: Whole Pork Rib Roast,10,9,90,hole Pork Rib Roast
+1217 Porch and Proper,407 : Porterhouse Pork Chops,11,9,99,Porterhouse Pork Chops
+1217 Porch and Proper,116 : Eye of Round,17,4,68,Eye of Round
+1217 Porch and Proper,142 : Chuck Underblade,40,8.08,323,Chuck Underblade
+1217 Porch and Proper,419 : Pork Trim,19.96,3.25,64.88,Pork Trim
+1217 Porch and Proper,133 : Bnls Strip Loin,88.7,13.26,1176.5,Bnls Strip Loin
+1217 Porch and Proper,209 : Lamb Neck,10,4,40,Lamb Neck
+1219 Nitehawk Cinema,148 : Marrow Bones,21.55,2.5,53.88,Marrow Bones
+1219 Nitehawk Cinema,119 : Ground Beef,16.35,4.5,73.58,Ground Beef
+1219 Nitehawk Cinema,105 : Top Blade Roast,29.03,6,174.18,Top Blade Roast
+1223 Bushwick Food Co-op,131 : Skirt,24.72,8.5,210.13,Skirt
+1223 Bushwick Food Co-op,140 : Tri-Tip,23.83,7.5,178.73,Tri-Tip
+1223 Bushwick Food Co-op,407 : Porterhouse Pork Chops,13.8,10,138,Porterhouse Pork Chops
+1223 Bushwick Food Co-op,119 : Ground Beef,112.38,5.5,618.1,Ground Beef
+1223 Bushwick Food Co-op,117 : Flank Steak,29.75,8.5,252.88,Flank Steak
+1223 Bushwick Food Co-op,120 : Hanger Steak,57.18,8.5,486.04,Hanger Steak
+1223 Bushwick Food Co-op,409 : Pork Spare Ribs,6.47,5,32.35,Pork Spare Ribs
+1223 Bushwick Food Co-op,128 : Short Ribs,33.1,7.5,248.25,Short Ribs
+1223 Bushwick Food Co-op,142 : Chuck Underblade,3.64,10.5,38.22,Chuck Underblade
+1223 Bushwick Food Co-op,123 : Beef Organs,2.27,2,4.54,Beef Organs
+1223 Bushwick Food Co-op,132 : Stew Meat,25.29,7.5,189.68,Stew Meat
+1223 Bushwick Food Co-op,133 : Bnls Strip Loin,22.6,15,339,Bnls Strip Loin
+1223 Bushwick Food Co-op,115 : Export Ribeye,51.2,13,665.6,Export Ribeye
+1223 Bushwick Food Co-op,164: 5.3oz Frozen Mushroom Patties 1#/pk 24#/cs,4.35,5.05,21.97,.3oz Frozen Mushroom Patties 1#/pk 24#/cs
+1223 Bushwick Food Co-op,146 : Beef Patties,19.9,5,99.5,Beef Patties
+1223 Bushwick Food Co-op,208 : Leg of Lamb,8.2,9,73.8,Leg of Lamb
+1223 Bushwick Food Co-op,130 : Bnls Top Sirloin Butt,63.25,9.2,581.96,Bnls Top Sirloin Butt
+1223 Bushwick Food Co-op,109 : Brisket,3.64,6.55,23.84,Brisket
+1224 Fresh Company,213 : Lamb Shoulder,33.5,8,268,Lamb Shoulder
+1224 Fresh Company,208 : Leg of Lamb,9.5,8,76,Leg of Lamb
+1224 Fresh Company,164: 5.3oz Frozen Mushroom Patties 1#/pk 24#/cs,1,4,4,.3oz Frozen Mushroom Patties 1#/pk 24#/cs
+1224 Fresh Company,202 : Lamb Bone in Breast,4.5,5.25,23.63,Lamb Bone in Breast
+"1225 John Gross & Company, Inc",146 : Beef Patties,1096.78,3.45,3783.89,Beef Patties
+"1225 John Gross & Company, Inc",119 : Ground Beef,3458.76,2.4,8301.03,Ground Beef
+1232 PA Governor's Residence,142 : Chuck Underblade,22.5,7.76,174.6,Chuck Underblade
+1232 PA Governor's Residence,135 : Tenderloin,131.14,20.05,2629.36,Tenderloin
+1232 PA Governor's Residence,128 : Short Ribs,62.565,7.76,485.51,Short Ribs
+1232 PA Governor's Residence,140 : Tri-Tip,41,8.28,339.48,Tri-Tip
+1233 Zingerman's,133 : Bnls Strip Loin,12.79,14,179.06,Bnls Strip Loin
+1233 Zingerman's,126 : Bnls Ribeye,12.63,14,176.82,Bnls Ribeye
+1234 Egg,115 : Export Ribeye,28.23,12,338.76,Export Ribeye
+1234 Egg,109 : Brisket,101.1,5.53,559.43,Brisket
+1234 Egg,146 : Beef Patties,10.81,5,54.05,Beef Patties
+1234 Egg,138 : Beef Tongue,2.07,5,10.35,Beef Tongue
+1234 Egg,112 : Chuck Eye,93.3,5.75,536.48,Chuck Eye
+1234 Egg,141 : Beef for Grinding,785.18,4,3140.72,Beef for Grinding
+1235 Pheasant,406 : Pork Center Cut Rib Rack,280.666,9,2525.99,Pork Center Cut Rib Rack
+1235 Pheasant,405 : Pork Country Rib Rack,292.025,9,2628.23,Pork Country Rib Rack
+1235 Pheasant,140 : Tri-Tip,152.2,7.61,1158,Tri-Tip
+1235 Pheasant,202 : Lamb Bone in Breast,21,5.25,110.25,Lamb Bone in Breast
+1235 Pheasant,403 : Pork Picnic Shoulder,94.45,5,472.25,Pork Picnic Shoulder
+1235 Pheasant,402 : Pork Boston Butt,146.5,5.5,805.75,Pork Boston Butt
+1235 Pheasant,421: Whole Pork Rib Roast,44.01,9,396.09,hole Pork Rib Roast
+1237 Kensington Quarters : Cafe Lift - Narberth,146 : Beef Patties,112.87,4.89,551.68,Beef Patties
+1238 Popina,208 : Leg of Lamb,30,8,240,Leg of Lamb
+1238 Popina,112 : Chuck Eye,8,5,40,Chuck Eye
+1238 Popina,138 : Beef Tongue,9.5,5,47.5,Beef Tongue
+1238 Popina,127 : Beef Shanks,33,4.75,156.75,Beef Shanks
+1238 Popina,402 : Pork Boston Butt,9,5.5,49.5,Pork Boston Butt
+1239 The Brooklyn Kitchen,214 : Lamb Trim,10.5,7.5,78.75,Lamb Trim
+1239 The Brooklyn Kitchen,419 : Pork Trim,52.3,3.5,183.05,Pork Trim
+1239 The Brooklyn Kitchen,117 : Flank Steak,204.76,8.25,1688.46,Flank Steak
+1239 The Brooklyn Kitchen,139 : Top Round,40,5.5,220,Top Round
+1239 The Brooklyn Kitchen,207 : Lamb Saddle Chops,19.5,10,195,Lamb Saddle Chops
+1239 The Brooklyn Kitchen,119 : Ground Beef,20.5,4.5,92.25,Ground Beef
+1240 Ikinari Steak,112 : Chuck Eye,8.5,6.5,55.25,Chuck Eye
+1241 The Breslin,115 : Export Ribeye,29.96,12,359.52,Export Ribeye
+1242 Temple Court,299 : Whole Lamb,83,7.4,614.2,Whole Lamb
+1243 Trapizzino,138 : Beef Tongue,249.9,6.98,1744.8,Beef Tongue
+1243 Trapizzino,119 : Ground Beef,949.175,4.5,4271.31,Ground Beef
+1243 Trapizzino,205 : Lamb Fat Organs,21.8,3,65.4,Lamb Fat Organs
+1243 Trapizzino,112 : Chuck Eye,207.12,5.39,1115.85,Chuck Eye
+1245 The Rare Bit,119 : Ground Beef,130.47,4.33,564.75,Ground Beef
+1245 The Rare Bit,208 : Leg of Lamb,280.805,4.69,1317.72,Leg of Lamb
+1245 The Rare Bit,142 : Chuck Underblade,29.5,6.43,189.75,Chuck Underblade
+1245 The Rare Bit,141 : Beef for Grinding,526.62,3.92,2066.48,Beef for Grinding
+1245 The Rare Bit,128 : Short Ribs,135.39,4,541.56,Short Ribs
+1245 The Rare Bit,419 : Pork Trim,1046.625,3.5,3663.25,Pork Trim
+1245 The Rare Bit,135 : Tenderloin,13,18,234,Tenderloin
+1245 The Rare Bit,212 : Lamb Shank,46.46,4,185.84,Lamb Shank
+1245 The Rare Bit,202 : Lamb Bone in Breast,57,4,228,Lamb Bone in Breast
+1245 The Rare Bit,404 : Pork Belly,193.16,3.9,754.14,Pork Belly
+1245 The Rare Bit,152: Mock Tender,36.16,4,144.64,ock Tender
+1245 The Rare Bit,107 : Beef Bones,328.88,2,657.76,Beef Bones
+1245 The Rare Bit,123 : Beef Organs,175.08,1.5,262.63,Beef Organs
+1245 The Rare Bit,207 : Lamb Saddle Chops,28,4,112,Lamb Saddle Chops
+1245 The Rare Bit,416 : Pork Backfat,15,2,30,Pork Backfat
+1245 The Rare Bit,105 : Top Blade Roast,143.71,4,574.84,Top Blade Roast
+1245 The Rare Bit,146 : Beef Patties,15,5,75,Beef Patties
+1245 The Rare Bit,140 : Tri-Tip,8.25,4,33,Tri-Tip
+1245 The Rare Bit,109 : Brisket,9.5,5.55,52.73,Brisket
+1245 The Rare Bit,116 : Eye of Round,29.77,4,119.08,Eye of Round
+1245 The Rare Bit,412 : Pork Boneless Ham,51.48,3.5,180.18,Pork Boneless Ham
+1245 The Rare Bit,166 : Rooster St. Hot Dogs,3,0,0,Rooster St. Hot Dogs
+1245 The Rare Bit,117 : Flank Steak,20,4,80,Flank Steak
+1245 The Rare Bit,111 : Chuck Roll,469.07,5.75,2697.17,Chuck Roll
+1245 The Rare Bit,130 : Bnls Top Sirloin Butt,105.54,4,422.16,Bnls Top Sirloin Butt
+1245 The Rare Bit,131 : Skirt,25.44,4,101.76,Skirt
+1245 The Rare Bit,112 : Chuck Eye,190.44,4.61,877.51,Chuck Eye
+1245 The Rare Bit,209 : Lamb Neck,52.94,4.25,225,Lamb Neck
+1245 The Rare Bit,415 : Pork Bones,15,2,30,Pork Bones
+1245 The Rare Bit,407 : Porterhouse Pork Chops,36.5,4,146,Porterhouse Pork Chops
+1245 The Rare Bit,115 : Export Ribeye,53.55,12,642.6,Export Ribeye
+1245 The Rare Bit,213 : Lamb Shoulder,94.59,4.83,456.99,Lamb Shoulder
+1245 The Rare Bit,409 : Pork Spare Ribs,156.405,4.59,718.56,Pork Spare Ribs
+1245 The Rare Bit,214 : Lamb Trim,35.92,4,143.68,Lamb Trim
+1246 Buona Foods,165: 4oz Frozen Mushroom Patties 30#/cs,1159,3.75,4346.25,oz Frozen Mushroom Patties 30#/cs
+1255 Fig and Pig,119 : Ground Beef,150,4.5,675,Ground Beef
+1256 Rebel Ventures,111 : Chuck Roll,25.24,5.75,145.13,Chuck Roll
+1256 Rebel Ventures,146 : Beef Patties,23.91,5,119.55,Beef Patties
+1275 Oxalis,130 : Bnls Top Sirloin Butt,9.26,6.8,62.97,Bnls Top Sirloin Butt
+13 Big Bear Cafe,413 : Pork Shanks,34.59,3,103.77,Pork Shanks
+13 Big Bear Cafe,128 : Short Ribs,20.89,6.5,135.79,Short Ribs
+13 Big Bear Cafe,212 : Lamb Shank,12.77,6.25,79.81,Lamb Shank
+13 Big Bear Cafe,403 : Pork Picnic Shoulder,8.81,5,44.05,Pork Picnic Shoulder
+13 Big Bear Cafe,419 : Pork Trim,73.09,3.36,245.41,Pork Trim
+13 Big Bear Cafe,109 : Brisket,11.75,4,47,Brisket
+13 Big Bear Cafe,127 : Beef Shanks,32.45,4.75,154.14,Beef Shanks
+13 Big Bear Cafe,124 : Oxtail,30,5.31,159.38,Oxtail
+13 Big Bear Cafe,163: Hotdogs,10,4,40,otdogs
+13 Big Bear Cafe,105 : Top Blade Roast,12,6,72,Top Blade Roast
+13 Big Bear Cafe,119 : Ground Beef,963.59,4.5,4336.19,Ground Beef
+13 Big Bear Cafe,116 : Eye of Round,18.02,4,72.08,Eye of Round
+13 Big Bear Cafe,142 : Chuck Underblade,15.5,9.5,147.25,Chuck Underblade
+13 Big Bear Cafe,140 : Tri-Tip,10.4,4,41.6,Tri-Tip
+1304 French Louie,109 : Brisket,32.36,5.55,179.6,Brisket
+14 BKLYN Larder,107 : Beef Bones,50.45,2,100.9,Beef Bones
+14 BKLYN Larder,416 : Pork Backfat,3.48,2,6.96,Pork Backfat
+14 BKLYN Larder,208 : Leg of Lamb,10.81,8,86.48,Leg of Lamb
+14 BKLYN Larder,213 : Lamb Shoulder,24.27,8,194.16,Lamb Shoulder
+14 BKLYN Larder,138 : Beef Tongue,7.37,7.5,55.28,Beef Tongue
+14 BKLYN Larder,140 : Tri-Tip,7.46,7.5,55.95,Tri-Tip
+14 BKLYN Larder,109 : Brisket,158.91,5.51,876.31,Brisket
+14 BKLYN Larder,139 : Top Round,634.6,5.5,3490.34,Top Round
+14 BKLYN Larder,124 : Oxtail,21.15,4,84.6,Oxtail
+14 BKLYN Larder,105 : Top Blade Roast,25.21,4,100.84,Top Blade Roast
+14 BKLYN Larder,119 : Ground Beef,414.65,4.5,1865.93,Ground Beef
+14 BKLYN Larder,127 : Beef Shanks,25.12,4.75,119.32,Beef Shanks
+14 BKLYN Larder,411 : Pork Whole Ham,116.57,3,349.71,Pork Whole Ham
+1499 Encore,126 : Bnls Ribeye,25,14,350,Bnls Ribeye
+1500 Golden Diner,146 : Beef Patties,337.85,4.5,1520.35,Beef Patties
+1500 Golden Diner,128 : Short Ribs,33.2,4,132.8,Short Ribs
+1501 Racine's,208 : Leg of Lamb,51.015,5.63,287.02,Leg of Lamb
+1501 Racine's,213 : Lamb Shoulder,52.12,4.58,238.6,Lamb Shoulder
+1501 Racine's,212 : Lamb Shank,5.96,4,23.84,Lamb Shank
+1501 Racine's,152: Mock Tender,13.26,4,53.04,ock Tender
+1501 Racine's,409 : Pork Spare Ribs,30.12,4,120.48,Pork Spare Ribs
+1501 Racine's,105 : Top Blade Roast,67.39,4,269.56,Top Blade Roast
+1501 Racine's,116 : Eye of Round,4.7,4,18.8,Eye of Round
+1501 Racine's,123 : Beef Organs,10,1.5,15,Beef Organs
+1501 Racine's,112 : Chuck Eye,8.07,4,32.28,Chuck Eye
+1501 Racine's,138 : Beef Tongue,17.93,4,71.72,Beef Tongue
+1501 Racine's,118 : Flap Steak,6.78,8.5,57.63,Flap Steak
+1501 Racine's,127 : Beef Shanks,20.41,4,81.64,Beef Shanks
+1501 Racine's,140 : Tri-Tip,17.98,6.44,115.85,Tri-Tip
+1501 Racine's,128 : Short Ribs,9.32,4,37.28,Short Ribs
+1501 Racine's,421: Whole Pork Rib Roast,1161.81,9,10456.29,hole Pork Rib Roast
+1501 Racine's,998: Dry Age Fee,1456.72,1.05,1529.59,ry Age Fee
+1501 Racine's,130 : Bnls Top Sirloin Butt,149.69,6.47,968.84,Bnls Top Sirloin Butt
+1501 Racine's,135 : Tenderloin,462.44,18,8323.92,Tenderloin
+1501 Racine's,420: Pork Shortloin,227.6,9,2048.4,ork Shortloin
+1501 Racine's,142 : Chuck Underblade,53.22,6.38,339.38,Chuck Underblade
+1501 Racine's,404 : Pork Belly,113.88,4.1,467.33,Pork Belly
+1501 Racine's,133 : Bnls Strip Loin,22.35,14,312.9,Bnls Strip Loin
+1501 Racine's,107 : Beef Bones,37.32,2,74.64,Beef Bones
+1501 Racine's,139 : Top Round,372.13,5.5,2046.77,Top Round
+1501 Racine's,115 : Export Ribeye,53.13,12,637.56,Export Ribeye
+1501 Racine's,124 : Oxtail,47.96,5.04,241.76,Oxtail
+1501 Racine's,119 : Ground Beef,111.5,4.5,501.78,Ground Beef
+1501 Racine's,202 : Lamb Bone in Breast,796.56,5.23,4169.46,Lamb Bone in Breast
+1501 Racine's,144 : Bone in Strip,151.67,12,1820.04,Bone in Strip
+1501 Racine's,407 : Porterhouse Pork Chops,114.1,7.44,848.9,Porterhouse Pork Chops
+1502 Gumption Coffee,109 : Brisket,67,5.55,371.85,Brisket
+1502 Gumption Coffee,107 : Beef Bones,13.5,2,27,Beef Bones
+1503 Eugene's,123 : Beef Organs,111.2,1.5,166.8,Beef Organs
+1503 Eugene's,107 : Beef Bones,397.58,2,795.16,Beef Bones
+1503 Eugene's,404 : Pork Belly,679.83,5,3399.15,Pork Belly
+1503 Eugene's,128 : Short Ribs,690.44,6.37,4398.61,Short Ribs
+1503 Eugene's,112 : Chuck Eye,19.28,4,77.12,Chuck Eye
+1503 Eugene's,105 : Top Blade Roast,56.43,4,225.72,Top Blade Roast
+1503 Eugene's,122 : Beef Navel,29.82,5.55,165.5,Beef Navel
+1503 Eugene's,414 : Ground Pork,30.19,3.5,105.67,Ground Pork
+1503 Eugene's,124 : Oxtail,19.86,4,79.44,Oxtail
+1503 Eugene's,419 : Pork Trim,85.89,3.5,300.62,Pork Trim
+1503 Eugene's,144 : Bone in Strip,540.99,9.16,4954.71,Bone in Strip
+1503 Eugene's,115 : Export Ribeye,21.61,9,194.49,Export Ribeye
+1503 Eugene's,409 : Pork Spare Ribs,142.53,5.65,804.65,Pork Spare Ribs
+1503 Eugene's,109 : Brisket,676.9,5.55,3756.8,Brisket
+1503 Eugene's,148 : Marrow Bones,100.585,2.5,251.47,Marrow Bones
+1503 Eugene's,141 : Beef for Grinding,559.695,4,2238.78,Beef for Grinding
+1504 Cafe Baladi,208 : Leg of Lamb,53,7.15,378.95,Leg of Lamb
+1504 Cafe Baladi,214 : Lamb Trim,41.2,6.95,286.34,Lamb Trim
+1505 The Uptown Garrison,105 : Top Blade Roast,8.79,8.5,74.72,Top Blade Roast
+1505 The Uptown Garrison,140 : Tri-Tip,6.97,7.5,52.28,Tri-Tip
+1505 The Uptown Garrison,128 : Short Ribs,745.38,6.5,4845.06,Short Ribs
+1505 The Uptown Garrison,130 : Bnls Top Sirloin Butt,22.53,8.5,191.51,Bnls Top Sirloin Butt
+1505 The Uptown Garrison,146 : Beef Patties,762.67,4.5,3433.77,Beef Patties
+1506 Otis,142 : Chuck Underblade,18,8.5,153,Chuck Underblade
+1506 Otis,402 : Pork Boston Butt,15.5,5,77.5,Pork Boston Butt
+1507 Dos Toros - 6th Ave.,111 : Chuck Roll,52.4,5.75,301.3,Chuck Roll
+1507 Dos Toros - 6th Ave.,141 : Beef for Grinding,10.05,4,40.2,Beef for Grinding
+1507 Dos Toros - 6th Ave.,130 : Bnls Top Sirloin Butt,11.93,8.5,101.41,Bnls Top Sirloin Butt
+1507 Dos Toros - 6th Ave.,153: Chip Steak,78.39,7.5,587.93,hip Steak
+1508 Nate Snyder,402 : Pork Boston Butt,8.5,5.5,46.75,Pork Boston Butt
+1508 Nate Snyder,131 : Skirt,15.5,8.5,131.75,Skirt
+1509 Junzi - Bleecker,413 : Pork Shanks,31.1,3,93.3,Pork Shanks
+1510 Riverdale School,119 : Ground Beef,60.3,4.5,271.35,Ground Beef
+1510 Riverdale School,146 : Beef Patties,121.13,5,605.65,Beef Patties
+1510 Riverdale School,165: 4oz Frozen Mushroom Patties 30#/cs,29.4,5.05,148.47,oz Frozen Mushroom Patties 30#/cs
+1511 Peach Tree Catering,139 : Top Round,18.48,5.5,101.64,Top Round
+1511 Peach Tree Catering,419 : Pork Trim,30.48,3.5,106.69,Pork Trim
+1511 Peach Tree Catering,128 : Short Ribs,9.29,4.88,45.34,Short Ribs
+1511 Peach Tree Catering,135 : Tenderloin,1443.64,18,25985.52,Tenderloin
+1511 Peach Tree Catering,148 : Marrow Bones,52.62,2.5,131.55,Marrow Bones
+1511 Peach Tree Catering,124 : Oxtail,12.38,4.51,55.86,Oxtail
+1511 Peach Tree Catering,211 : Lamb Saddle,10.33,8.89,91.8,Lamb Saddle
+1511 Peach Tree Catering,119 : Ground Beef,141.98,4.5,638.93,Ground Beef
+1511 Peach Tree Catering,404 : Pork Belly,142.71,5,713.55,Pork Belly
+1511 Peach Tree Catering,142 : Chuck Underblade,22.19,8.33,184.74,Chuck Underblade
+1511 Peach Tree Catering,109 : Brisket,110.6,5.37,594.15,Brisket
+1511 Peach Tree Catering,405 : Pork Country Rib Rack,25.87,6,155.22,Pork Country Rib Rack
+1511 Peach Tree Catering,130 : Bnls Top Sirloin Butt,99.83,8.01,799.5,Bnls Top Sirloin Butt
+1511 Peach Tree Catering,208 : Leg of Lamb,11,6,66,Leg of Lamb
+1511 Peach Tree Catering,214 : Lamb Trim,10.245,7.5,76.84,Lamb Trim
+1511 Peach Tree Catering,107 : Beef Bones,62.17,2,124.34,Beef Bones
+1511 Peach Tree Catering,409 : Pork Spare Ribs,6.025,4.31,25.97,Pork Spare Ribs
+1511 Peach Tree Catering,133 : Bnls Strip Loin,277.64,14,3886.96,Bnls Strip Loin
+1511 Peach Tree Catering,126 : Bnls Ribeye,49.54,14,693.56,Bnls Ribeye
+1511 Peach Tree Catering,131 : Skirt,83.69,8.5,711.37,Skirt
+1511 Peach Tree Catering,402 : Pork Boston Butt,90.07,5.37,483.87,Pork Boston Butt
+1512 Barbuzzo,146 : Beef Patties,40.14,3,120.42,Beef Patties
+1513 The Good King Tavern,146 : Beef Patties,24.75,5,123.75,Beef Patties
+1514 Jezabel's,146 : Beef Patties,28.26,4.28,121,Beef Patties
+1514 Jezabel's,419 : Pork Trim,11.06,3.5,38.71,Pork Trim
+1514 Jezabel's,119 : Ground Beef,100.8,4.5,453.6,Ground Beef
+1514 Jezabel's,118 : Flap Steak,4.04,8.5,34.34,Flap Steak
+1514 Jezabel's,402 : Pork Boston Butt,17.68,5.5,97.24,Pork Boston Butt
+1515 Mint Kitchen,119 : Ground Beef,1508.38,4.5,6787.75,Ground Beef
+1515 Mint Kitchen,130 : Bnls Top Sirloin Butt,11.5,8.5,97.75,Bnls Top Sirloin Butt
+1515 Mint Kitchen,997: Dry Age Cut/Vac/Portion,11.5,1,11.5,ry Age Cut/Vac/Portion
+1516 San Pedro,402 : Pork Boston Butt,732.195,5,3660.99,Pork Boston Butt
+1516 San Pedro,138 : Beef Tongue,11.2,6,67.2,Beef Tongue
+1516 San Pedro,153: Chip Steak,1117.68,7.5,8382.64,hip Steak
+1516 San Pedro,416 : Pork Backfat,10.025,2,20.05,Pork Backfat
+1516 San Pedro,115 : Export Ribeye,14.22,12,170.64,Export Ribeye
+1516 San Pedro,403 : Pork Picnic Shoulder,427.365,5,2136.83,Pork Picnic Shoulder
+1516 San Pedro,409 : Pork Spare Ribs,6.18,3.5,21.63,Pork Spare Ribs
+1518 Johnny Brenda's,146 : Beef Patties,55.5,3.85,213.68,Beef Patties
+1519 Rudolf Steiner Fellowship,119 : Ground Beef,801.3,3.75,3004.88,Ground Beef
+1519 Rudolf Steiner Fellowship,108 : Bottom Round,14.5,5,72.5,Bottom Round
+1519 Rudolf Steiner Fellowship,130 : Bnls Top Sirloin Butt,67.2,7.5,504,Bnls Top Sirloin Butt
+1519 Rudolf Steiner Fellowship,132 : Stew Meat,405.7,5.26,2133.83,Stew Meat
+1519 Rudolf Steiner Fellowship,111 : Chuck Roll,5.2,5.75,29.9,Chuck Roll
+1526 KIPP NYC College Prep High School,109 : Brisket,12.75,5.55,70.76,Brisket
+1526 KIPP NYC College Prep High School,139 : Top Round,20.37,5.5,112.04,Top Round
+1526 KIPP NYC College Prep High School,119 : Ground Beef,1,4.5,4.5,Ground Beef
+1526 KIPP NYC College Prep High School,112 : Chuck Eye,13.2,6.5,85.8,Chuck Eye
+1527 Electric Lemon,997: Dry Age Cut/Vac/Portion,12.11,1.45,17.56,ry Age Cut/Vac/Portion
+1527 Electric Lemon,613 : Pasture Raised Chicken 2.25 lb,8,13.75,110,Pasture Raised Chicken 2.25 lb
+1527 Electric Lemon,213 : Lamb Shoulder,15.29,8,122.32,Lamb Shoulder
+1527 Electric Lemon,135 : Tenderloin,29.57,18,532.26,Tenderloin
+1527 Electric Lemon,119 : Ground Beef,20.21,4.5,90.95,Ground Beef
+1527 Electric Lemon,146 : Beef Patties,32.43,5,162.15,Beef Patties
+1527 Electric Lemon,116 : Eye of Round,31.49,6.5,204.7,Eye of Round
+1527 Electric Lemon,133 : Bnls Strip Loin,56.18,14,786.52,Bnls Strip Loin
+1528 Greene Hill Food Co-op,117 : Flank Steak,96.18,8.5,817.55,Flank Steak
+1528 Greene Hill Food Co-op,130 : Bnls Top Sirloin Butt,51.24,9.18,470.54,Bnls Top Sirloin Butt
+1528 Greene Hill Food Co-op,109 : Brisket,10.53,6.4,67.39,Brisket
+1528 Greene Hill Food Co-op,128 : Short Ribs,12.12,7,84.84,Short Ribs
+1528 Greene Hill Food Co-op,137 : Teres Major,21.89,8.5,186.08,Teres Major
+1528 Greene Hill Food Co-op,164: 5.3oz Frozen Mushroom Patties 1#/pk 24#/cs,16.46,5.05,83.12,.3oz Frozen Mushroom Patties 1#/pk 24#/cs
+1528 Greene Hill Food Co-op,140 : Tri-Tip,29.75,7.5,223.14,Tri-Tip
+1528 Greene Hill Food Co-op,115 : Export Ribeye,15.17,13,197.21,Export Ribeye
+1528 Greene Hill Food Co-op,404 : Pork Belly,9.39,6,56.34,Pork Belly
+1528 Greene Hill Food Co-op,409 : Pork Spare Ribs,29.79,5.75,171.29,Pork Spare Ribs
+1528 Greene Hill Food Co-op,119 : Ground Beef,116.5,5.5,640.76,Ground Beef
+1528 Greene Hill Food Co-op,147:Flatiron,12.23,10,122.3,atiron
+1529 Din Yates,152: Mock Tender,5.75,4,23,ock Tender
+1529 Din Yates,130 : Bnls Top Sirloin Butt,26.7,4,106.8,Bnls Top Sirloin Butt
+1529 Din Yates,118 : Flap Steak,17.81,4,71.24,Flap Steak
+1529 Din Yates,105 : Top Blade Roast,26.17,4,104.68,Top Blade Roast
+1529 Din Yates,131 : Skirt,36.49,4,145.96,Skirt
+1529 Din Yates,138 : Beef Tongue,4.65,4,18.6,Beef Tongue
+1529 Din Yates,124 : Oxtail,5.63,4,22.52,Oxtail
+1529 Din Yates,116 : Eye of Round,76.3,4,305.2,Eye of Round
+1529 Din Yates,127 : Beef Shanks,46.8,4,187.2,Beef Shanks
+1529 Din Yates,112 : Chuck Eye,78.15,4,312.6,Chuck Eye
+1529 Din Yates,132 : Stew Meat,20.1,4,80.4,Stew Meat
+1529 Din Yates,161: 100% Grass Fed Beef,42.12,4,168.48,00% Grass Fed Beef
+1529 Din Yates,128 : Short Ribs,6.36,4,25.44,Short Ribs
+1529 Din Yates,117 : Flank Steak,17.87,4,71.48,Flank Steak
+1529 Din Yates,206 : Ground Lamb,10.54,4,42.16,Ground Lamb
+1529 Din Yates,119 : Ground Beef,45.46,4,181.84,Ground Beef
+1529 Din Yates,140 : Tri-Tip,36.85,4,147.4,Tri-Tip
+1530 Craft Hall,402 : Pork Boston Butt,37.65,5.5,207.08,Pork Boston Butt
+1530 Craft Hall,146 : Beef Patties,30.9,5,154.5,Beef Patties
+1530 Craft Hall,419 : Pork Trim,10.35,3.5,36.23,Pork Trim
+1531 Brooklyn Label,211 : Lamb Saddle,6.665,10,66.65,Lamb Saddle
+1531 Brooklyn Label,119 : Ground Beef,10.26,4.5,46.17,Ground Beef
+1531 Brooklyn Label,112 : Chuck Eye,39.66,4,158.64,Chuck Eye
+1532 Westtown School,135 : Tenderloin,9.49,18,170.82,Tenderloin
+1532 Westtown School,168: Happy Valley Meatballs,340,7.24,2461.6,appy Valley Meatballs
+1533 Maria Holden,141 : Beef for Grinding,25.13,4,100.52,Beef for Grinding
+1533 Maria Holden,123 : Beef Organs,28.97,3,86.91,Beef Organs
+1533 Maria Holden,107 : Beef Bones,17.8,3,53.4,Beef Bones
+1536 Tria Taproom,146 : Beef Patties,371.72,5,1858.6,Beef Patties
+1537 Juniper Hill Restaurant and Bar,119 : Ground Beef,724.86,4.42,3201.09,Ground Beef
+1538 Gurney's Star Island,127 : Beef Shanks,30.77,4.5,138.59,Beef Shanks
+1538 Gurney's Star Island,131 : Skirt,280.88,8.49,2383.84,Skirt
+1538 Gurney's Star Island,138 : Beef Tongue,11.34,4,45.36,Beef Tongue
+1538 Gurney's Star Island,128 : Short Ribs,196.29,4,785.16,Short Ribs
+1538 Gurney's Star Island,130 : Bnls Top Sirloin Butt,81.24,4,324.96,Bnls Top Sirloin Butt
+1538 Gurney's Star Island,122 : Beef Navel,10.45,4,41.8,Beef Navel
+1538 Gurney's Star Island,116 : Eye of Round,22.19,4,88.76,Eye of Round
+1538 Gurney's Star Island,103 : Back Ribs,24.89,4,99.56,Back Ribs
+1538 Gurney's Star Island,112 : Chuck Eye,323.95,4,1295.8,Chuck Eye
+1538 Gurney's Star Island,105 : Top Blade Roast,347.21,4,1388.84,Top Blade Roast
+1538 Gurney's Star Island,124 : Oxtail,42.25,4,169,Oxtail
+1538 Gurney's Star Island,211 : Lamb Saddle,11.75,10,117.5,Lamb Saddle
+1539 Mill House Inn,118 : Flap Steak,7.82,8.5,66.47,Flap Steak
+1539 Mill House Inn,407 : Porterhouse Pork Chops,5.23,9,47.07,Porterhouse Pork Chops
+1539 Mill House Inn,140 : Tri-Tip,34.65,5.24,181.59,Tri-Tip
+1539 Mill House Inn,419 : Pork Trim,51.36,3.5,179.77,Pork Trim
+1539 Mill House Inn,141 : Beef for Grinding,42.07,4,168.28,Beef for Grinding
+1539 Mill House Inn,124 : Oxtail,30.31,4,121.24,Oxtail
+1539 Mill House Inn,133 : Bnls Strip Loin,12.84,13.5,173.34,Bnls Strip Loin
+1539 Mill House Inn,142 : Chuck Underblade,6.5,8,52,Chuck Underblade
+1539 Mill House Inn,402 : Pork Boston Butt,71.36,5.38,384.08,Pork Boston Butt
+1539 Mill House Inn,109 : Brisket,12.99,5.55,72.09,Brisket
+1539 Mill House Inn,119 : Ground Beef,30.26,4.5,136.18,Ground Beef
+1539 Mill House Inn,403 : Pork Picnic Shoulder,48.15,5,240.75,Pork Picnic Shoulder
+1539 Mill House Inn,105 : Top Blade Roast,38.38,5.21,199.97,Top Blade Roast
+1539 Mill House Inn,416 : Pork Backfat,10.16,2,20.32,Pork Backfat
+1539 Mill House Inn,164: 5.3oz Frozen Mushroom Patties 1#/pk 24#/cs,16.44,5.05,83.02,.3oz Frozen Mushroom Patties 1#/pk 24#/cs
+1539 Mill House Inn,128 : Short Ribs,64.42,4.71,303.44,Short Ribs
+1540 Adam Dulye,118 : Flap Steak,32.78,9,295.02,Flap Steak
+1541 Edie Jo's,168: Happy Valley Meatballs,30.36,7.24,219.81,appy Valley Meatballs
+1541 Edie Jo's,117 : Flank Steak,6.9,8.5,58.65,Flank Steak
+1541 Edie Jo's,123 : Beef Organs,4.9,1.5,7.35,Beef Organs
+1541 Edie Jo's,124 : Oxtail,11.34,4,45.36,Oxtail
+1541 Edie Jo's,105 : Top Blade Roast,23.81,4,95.24,Top Blade Roast
+1541 Edie Jo's,128 : Short Ribs,8.38,6.5,54.47,Short Ribs
+1541 Edie Jo's,116 : Eye of Round,10.5,4,42,Eye of Round
+1541 Edie Jo's,142 : Chuck Underblade,215.89,7.81,1686.06,Chuck Underblade
+1541 Edie Jo's,146 : Beef Patties,571.96,5,2859.8,Beef Patties
+1542 Green Hill,109 : Brisket,39.36,5.55,218.45,Brisket
+1542 Green Hill,128 : Short Ribs,12.01,6.5,78.07,Short Ribs
+1542 Green Hill,131 : Skirt,2.91,8.5,24.74,Skirt
+1542 Green Hill,212 : Lamb Shank,5.82,6.25,36.38,Lamb Shank
+1542 Green Hill,413 : Pork Shanks,1.81,3,5.43,Pork Shanks
+1542 Green Hill,407 : Porterhouse Pork Chops,5.56,9,50.04,Porterhouse Pork Chops
+1542 Green Hill,115 : Export Ribeye,41.9,12,502.8,Export Ribeye
+1543 Little Donna's,413 : Pork Shanks,31.76,3,95.28,Pork Shanks
+1544 The Happiest Hour,146 : Beef Patties,2634.53,4.7,12382.32,Beef Patties
+1544 The Happiest Hour,123 : Beef Organs,73.05,1.5,109.58,Beef Organs
+1544 The Happiest Hour,107 : Beef Bones,15.7,2,31.4,Beef Bones
+1544 The Happiest Hour,128 : Short Ribs,11.3,4,45.2,Short Ribs
+1546 Washington Waldorf School,146 : Beef Patties,62.44,5,312.2,Beef Patties
+1547 John Serock Catering,119 : Ground Beef,40.16,4.5,180.72,Ground Beef
+1548 Provisions Magazine,168: Happy Valley Meatballs,30,7.24,217.2,appy Valley Meatballs
+1551 Frankie's Free Range Meats,100 : Whole Beef,1260,4.2,5292,Whole Beef
+1552 The Diving Horse,119 : Ground Beef,19.97,2.24,44.78,Ground Beef
+1552 The Diving Horse,405 : Pork Country Rib Rack,5.65,0,0,Pork Country Rib Rack
+1552 The Diving Horse,142 : Chuck Underblade,404.82,9.3,3762.94,Chuck Underblade
+1552 The Diving Horse,128 : Short Ribs,25.73,6.5,167.25,Short Ribs
+1553 Frevo,142 : Chuck Underblade,26.15,6.5,169.98,Chuck Underblade
+1554 Melanie Moss,146 : Beef Patties,4.93,5,24.65,Beef Patties
+1554 Melanie Moss,164: 5.3oz Frozen Mushroom Patties 1#/pk 24#/cs,2,5.05,10.1,.3oz Frozen Mushroom Patties 1#/pk 24#/cs
+1554 Melanie Moss,109 : Brisket,23.92,5.55,132.77,Brisket
+1555 Craig Lewis,124 : Oxtail,10.65,7.25,77.21,Oxtail
+1555 Craig Lewis,409 : Pork Spare Ribs,12.37,5.75,71.13,Pork Spare Ribs
+1555 Craig Lewis,131 : Skirt,2.895,8.5,24.61,Skirt
+1555 Craig Lewis,119 : Ground Beef,5.5,4.5,24.75,Ground Beef
+1555 Craig Lewis,128 : Short Ribs,7.12,6.5,46.28,Short Ribs
+1555 Craig Lewis,117 : Flank Steak,11.53,8.5,98.01,Flank Steak
+1555 Craig Lewis,146 : Beef Patties,16.18,5,80.9,Beef Patties
+1557 Eat Offbeat,119 : Ground Beef,100.77,4.5,453.47,Ground Beef
+1558 Canal Street Oysters,146 : Beef Patties,95.38,5,476.9,Beef Patties
+1558 Canal Street Oysters,404 : Pork Belly,19.49,5,97.45,Pork Belly
+1558 Canal Street Oysters,119 : Ground Beef,10.21,4.5,45.95,Ground Beef
+1561 Cuisine Solutions,152: Mock Tender,2,6.5,13,ock Tender
+1561 Cuisine Solutions,167 : Sirloin Tip,2,4,8,Sirloin Tip
+1561 Cuisine Solutions,116 : Eye of Round,2,6.5,13,Eye of Round
+1561 Cuisine Solutions,130 : Bnls Top Sirloin Butt,1,8.5,8.5,Bnls Top Sirloin Butt
+1561 Cuisine Solutions,108 : Bottom Round,2,5,10,Bottom Round
+1561 Cuisine Solutions,139 : Top Round,2,5.5,11,Top Round
+1562 Scarr's,168: Happy Valley Meatballs,60,7.24,434.4,appy Valley Meatballs
+1565 Coarse NYC,128 : Short Ribs,10.8,7.5,81,Short Ribs
+1566 Bucks County Playhouse,133 : Bnls Strip Loin,39.76,14,556.64,Bnls Strip Loin
+1566 Bucks County Playhouse,146 : Beef Patties,42.39,5,211.95,Beef Patties
+1566 Bucks County Playhouse,997: Dry Age Cut/Vac/Portion,39.76,1.45,57.65,ry Age Cut/Vac/Portion
+1566 Bucks County Playhouse,998: Dry Age Fee,39.76,1.05,41.75,ry Age Fee
+1567 Henry's End,146 : Beef Patties,64.1,5,320.5,Beef Patties
+1571:1 Terrain Cafe : Terrain Cafe Glenn Mills,146 : Beef Patties,10.05,5,50.25,Beef Patties
+17 Bricolage,213 : Lamb Shoulder,32.5,7,227.5,Lamb Shoulder
+17 Bricolage,210 : Lamb Rack of Ribs,11,9.8,107.8,Lamb Rack of Ribs
+17 Bricolage,116 : Eye of Round,209.17,6.5,1359.64,Eye of Round
+17 Bricolage,126 : Bnls Ribeye,3298.515,14,46179.21,Bnls Ribeye
+17 Bricolage,105 : Top Blade Roast,5,6.75,33.75,Top Blade Roast
+17 Bricolage,138 : Beef Tongue,13.5,5,67.5,Beef Tongue
+19 Bunker Vietnamese,142 : Chuck Underblade,1774.76,8.41,14933.02,Chuck Underblade
+19 Bunker Vietnamese,112 : Chuck Eye,8.35,6.5,54.28,Chuck Eye
+19 Bunker Vietnamese,105 : Top Blade Roast,595.11,8.5,5058.49,Top Blade Roast
+19 Bunker Vietnamese,116 : Eye of Round,1763.39,6.5,11462.11,Eye of Round
+19 Bunker Vietnamese,119 : Ground Beef,419.39,4.5,1887.31,Ground Beef
+19 Bunker Vietnamese,103 : Back Ribs,1012.54,4,4050.16,Back Ribs
+19 Bunker Vietnamese,127 : Beef Shanks,378.99,4.25,1610.74,Beef Shanks
+19 Bunker Vietnamese,108 : Bottom Round,38.3,5,191.5,Bottom Round
+19 Bunker Vietnamese,109 : Brisket,1562.745,5.55,8673.27,Brisket
+19 Bunker Vietnamese,107 : Beef Bones,4252.77,1.57,6685.13,Beef Bones
+19 Bunker Vietnamese,166 : Rooster St. Hot Dogs,3,0,0,Rooster St. Hot Dogs
+"23 Central PA Community Action, Inc.",119 : Ground Beef,1212.1,5.27,6391.45,Ground Beef
+24 Cheeky Sandwiches,126 : Bnls Ribeye,11.6,14,162.4,Bnls Ribeye
+24 Cheeky Sandwiches,128 : Short Ribs,2458.33,6,14749.98,Short Ribs
+264 Momofuku : Ko,127 : Beef Shanks,5.8,4.75,27.55,Beef Shanks
+264 Momofuku : Ko,111 : Chuck Roll,671.71,5.75,3862.34,Chuck Roll
+264 Momofuku : Ko,998: Dry Age Fee,609.61,1.05,640.11,ry Age Fee
+264 Momofuku : Ko,997: Dry Age Cut/Vac/Portion,632.92,1.45,917.73,ry Age Cut/Vac/Portion
+264 Momofuku : Ko,115 : Export Ribeye,52,12,624,Export Ribeye
+264 Momofuku : Ko,112 : Chuck Eye,64.96,6.39,415.12,Chuck Eye
+264 Momofuku : Ko,995: Dry Age Cut,16.5,0.55,9.08,ry Age Cut
+264 Momofuku : Ko,144 : Bone in Strip,4960.96,12,59531.52,Bone in Strip
+279 The Blue Door Cafe & Bakery,133 : Bnls Strip Loin,12,14,168,Bnls Strip Loin
+279 The Blue Door Cafe & Bakery,413 : Pork Shanks,52.96,6,317.76,Pork Shanks
+290 116 Crown,202 : Lamb Bone in Breast,18.5,5.25,97.13,Lamb Bone in Breast
+30 Dig Inn,135 : Tenderloin,64.7,11,711.7,Tenderloin
+30 Dig Inn,141 : Beef for Grinding,508.6,3.25,1652.95,Beef for Grinding
+318 Happy Valley Meat Company,119 : Ground Beef,176.44,4.5,793.99,Ground Beef
+318 Happy Valley Meat Company,124 : Oxtail,3,7.25,21.75,Oxtail
+318 Happy Valley Meat Company,131 : Skirt,17.04,10.07,171.65,Skirt
+318 Happy Valley Meat Company,164: 5.3oz Frozen Mushroom Patties 1#/pk 24#/cs,40.41,5.05,204.07,.3oz Frozen Mushroom Patties 1#/pk 24#/cs
+318 Happy Valley Meat Company,208 : Leg of Lamb,38.65,8,309.2,Leg of Lamb
+318 Happy Valley Meat Company,141 : Beef for Grinding,30.67,4,122.68,Beef for Grinding
+318 Happy Valley Meat Company,133 : Bnls Strip Loin,25.77,14,360.78,Bnls Strip Loin
+318 Happy Valley Meat Company,139 : Top Round,21.4,5.5,117.7,Top Round
+318 Happy Valley Meat Company,603 : Pasture Raised Chicken 4.26 lb to 5.00 lb,27.97,4.25,118.87,Pasture Raised Chicken 4.26 lb to 5.00 lb
+318 Happy Valley Meat Company,213 : Lamb Shoulder,7.42,8,59.36,Lamb Shoulder
+318 Happy Valley Meat Company,108 : Bottom Round,8.3,5,41.5,Bottom Round
+318 Happy Valley Meat Company,409 : Pork Spare Ribs,13.1,2.68,35.08,Pork Spare Ribs
+318 Happy Valley Meat Company,202 : Lamb Bone in Breast,12.5,5.25,65.63,Lamb Bone in Breast
+318 Happy Valley Meat Company,115 : Export Ribeye,55.84,12,670.08,Export Ribeye
+318 Happy Valley Meat Company,402 : Pork Boston Butt,9.02,5.5,49.61,Pork Boston Butt
+318 Happy Valley Meat Company,167 : Sirloin Tip,7.99,4,31.96,Sirloin Tip
+318 Happy Valley Meat Company,161: 100% Grass Fed Beef,29.24,5.44,159.2,00% Grass Fed Beef
+318 Happy Valley Meat Company,126 : Bnls Ribeye,14.05,14,196.7,Bnls Ribeye
+318 Happy Valley Meat Company,118 : Flap Steak,7.36,8.5,62.56,Flap Steak
+318 Happy Valley Meat Company,140 : Tri-Tip,48,7.5,360.02,Tri-Tip
+318 Happy Valley Meat Company,113 : Shoulder Clod,13.97,5.5,76.84,Shoulder Clod
+318 Happy Valley Meat Company,999: Misc,2.5,2.75,6.88,isc
+318 Happy Valley Meat Company,116 : Eye of Round,3.69,6.5,23.99,Eye of Round
+318 Happy Valley Meat Company,138 : Beef Tongue,2.5,7.5,18.75,Beef Tongue
+318 Happy Valley Meat Company,130 : Bnls Top Sirloin Butt,22.06,8.5,187.51,Bnls Top Sirloin Butt
+318 Happy Valley Meat Company,109 : Brisket,11.4,5.55,63.27,Brisket
+318 Happy Valley Meat Company,168: Happy Valley Meatballs,65,7.24,470.6,appy Valley Meatballs
+318 Happy Valley Meat Company,165: 4oz Frozen Mushroom Patties 30#/cs,261,3.1,809.1,oz Frozen Mushroom Patties 30#/cs
+318 Happy Valley Meat Company,117 : Flank Steak,11.33,8.5,96.31,Flank Steak
+318 Happy Valley Meat Company,207 : Lamb Saddle Chops,3,10,30,Lamb Saddle Chops
+318 Happy Valley Meat Company,142 : Chuck Underblade,29.75,9.5,282.63,Chuck Underblade
+318 Happy Valley Meat Company,128 : Short Ribs,52.35,5.28,276.39,Short Ribs
+318 Happy Valley Meat Company,998: Dry Age Fee,28.34,1,28.34,ry Age Fee
+318 Happy Valley Meat Company,407 : Porterhouse Pork Chops,5.3,9,47.7,Porterhouse Pork Chops
+318 Happy Valley Meat Company,146 : Beef Patties,25.81,5,129.05,Beef Patties
+318 Happy Valley Meat Company,112 : Chuck Eye,27.78,6.5,180.57,Chuck Eye
+318 Happy Valley Meat Company,166 : Rooster St. Hot Dogs,6.5,1,6.5,Rooster St. Hot Dogs
+34 Dundore & Heister,144 : Bone in Strip,54.25,12,651,Bone in Strip
+34 Dundore & Heister,402 : Pork Boston Butt,33.5,5.5,184.25,Pork Boston Butt
+34 Dundore & Heister,214 : Lamb Trim,37.4,7.5,280.5,Lamb Trim
+34 Dundore & Heister,216: Boneless Leg of Lamb,53.5,6,321,oneless Leg of Lamb
+34 Dundore & Heister,109 : Brisket,46.5,5.55,258.08,Brisket
+34 Dundore & Heister,141 : Beef for Grinding,200.32,4,801.28,Beef for Grinding
+34 Dundore & Heister,210 : Lamb Rack of Ribs,79.5,14,1113,Lamb Rack of Ribs
+34 Dundore & Heister,135 : Tenderloin,446.63,17.78,7940.34,Tenderloin
+34 Dundore & Heister,211 : Lamb Saddle,23,10,230,Lamb Saddle
+34 Dundore & Heister,998: Dry Age Fee,456,1.05,478.8,ry Age Fee
+34 Dundore & Heister,208 : Leg of Lamb,64.5,8,516,Leg of Lamb
+34 Dundore & Heister,115 : Export Ribeye,440.88,12,5290.56,Export Ribeye
+38 Eli Zabar's,126 : Bnls Ribeye,11.6,12,139.2,Bnls Ribeye
+38 Eli Zabar's,133 : Bnls Strip Loin,457.26,12,5487.12,Bnls Strip Loin
+38 Eli Zabar's,135 : Tenderloin,879.12,16,14065.92,Tenderloin
+38 Eli Zabar's,144 : Bone in Strip,22.56,10,225.6,Bone in Strip
+38 Eli Zabar's,111 : Chuck Roll,1480.06,5.75,8510.36,Chuck Roll
+38 Eli Zabar's,148 : Marrow Bones,225.31,2.5,563.3,Marrow Bones
+38 Eli Zabar's,108 : Bottom Round,775.41,5,3877.05,Bottom Round
+38 Eli Zabar's,127 : Beef Shanks,82.55,4.75,392.11,Beef Shanks
+39 Erin McCracken,109 : Brisket,758.86,5.55,4211.68,Brisket
+39 Erin McCracken,122 : Beef Navel,41.65,5.55,231.16,Beef Navel
+39 Erin McCracken,128 : Short Ribs,24.2,6.5,157.3,Short Ribs
+42 Fette Sau,208 : Leg of Lamb,24.67,7.5,185.03,Leg of Lamb
+42 Fette Sau,130 : Bnls Top Sirloin Butt,150.36,4.34,652,Bnls Top Sirloin Butt
+42 Fette Sau,213 : Lamb Shoulder,32.5,7,227.5,Lamb Shoulder
+42 Fette Sau,128 : Short Ribs,40.46,4,161.84,Short Ribs
+42 Fette Sau,140 : Tri-Tip,24.6,7.5,184.5,Tri-Tip
+42 Fette Sau,139 : Top Round,73.5,5.5,404.25,Top Round
+42 Fette Sau,127 : Beef Shanks,21.5,4.75,102.13,Beef Shanks
+42 Fette Sau,122 : Beef Navel,568.23,6.5,3693.51,Beef Navel
+42 Fette Sau,109 : Brisket,6488.66,4.25,27576.87,Brisket
+45 High Street Hospitality : Fork,109 : Brisket,2665.669,5.52,14706.17,Brisket
+45 High Street Hospitality : Fork,118 : Flap Steak,31,8.5,263.5,Flap Steak
+45 High Street Hospitality : Fork,123 : Beef Organs,36,1.5,54,Beef Organs
+45 High Street Hospitality : Fork,138 : Beef Tongue,93.19,4.74,441.96,Beef Tongue
+45 High Street Hospitality : Fork,120 : Hanger Steak,11.72,4,46.88,Hanger Steak
+45 High Street Hospitality : Fork,126 : Bnls Ribeye,591.21,14,8276.94,Bnls Ribeye
+45 High Street Hospitality : Fork,131 : Skirt,54.24,4,216.96,Skirt
+45 High Street Hospitality : Fork,128 : Short Ribs,280.795,6.5,1825.21,Short Ribs
+45 High Street Hospitality : Fork,127 : Beef Shanks,43.65,4,174.6,Beef Shanks
+45 High Street Hospitality : Fork,105 : Top Blade Roast,91.94,4,367.76,Top Blade Roast
+45 High Street Hospitality : Fork,404 : Pork Belly,12.735,5,63.68,Pork Belly
+45 High Street Hospitality : Fork,140 : Tri-Tip,58,4,232,Tri-Tip
+45 High Street Hospitality : Fork,124 : Oxtail,34.27,4,137.08,Oxtail
+45 High Street Hospitality : Fork,146 : Beef Patties,7,3.5,24.5,Beef Patties
+45 High Street Hospitality : Fork,111 : Chuck Roll,79.19,4.55,360.46,Chuck Roll
+45 High Street Hospitality : Fork,202 : Lamb Bone in Breast,200.79,5.25,1054.17,Lamb Bone in Breast
+45 High Street Hospitality : Fork,116 : Eye of Round,29.56,4,118.24,Eye of Round
+45 High Street Hospitality : Fork,208 : Leg of Lamb,150.4,7,1052.8,Leg of Lamb
+45 High Street Hospitality : Fork,142 : Chuck Underblade,158.01,4,632.04,Chuck Underblade
+45 High Street Hospitality : Fork,112 : Chuck Eye,236.74,4.51,1067.54,Chuck Eye
+45 High Street Hospitality : Fork,402 : Pork Boston Butt,40.7,5.5,223.85,Pork Boston Butt
+481 The Clocktower,131 : Skirt,6.31,8.5,53.64,Skirt
+481 The Clocktower,126 : Bnls Ribeye,24.15,14,338.1,Bnls Ribeye
+481 The Clocktower,208 : Leg of Lamb,7.615,8,60.92,Leg of Lamb
+481 The Clocktower,116 : Eye of Round,10.97,6.5,71.31,Eye of Round
+481 The Clocktower,133 : Bnls Strip Loin,35.65,14,499.1,Bnls Strip Loin
+481 The Clocktower,119 : Ground Beef,50.7,4.5,228.16,Ground Beef
+481 The Clocktower,135 : Tenderloin,5.45,18,98.1,Tenderloin
+481 The Clocktower,117 : Flank Steak,3.18,8.5,27.03,Flank Steak
+481 The Clocktower,144 : Bone in Strip,15.43,12,185.16,Bone in Strip
+5 Alex Dimin,138 : Beef Tongue,2,7.5,15,Beef Tongue
+5 Alex Dimin,403 : Pork Picnic Shoulder,13.14,5,65.7,Pork Picnic Shoulder
+5 Alex Dimin,161: 100% Grass Fed Beef,14.22,5.49,78.1,00% Grass Fed Beef
+5 Alex Dimin,140 : Tri-Tip,3,7.5,22.5,Tri-Tip
+5 Alex Dimin,117 : Flank Steak,12.35,8.5,104.98,Flank Steak
+5 Alex Dimin,407 : Porterhouse Pork Chops,4.7,9,42.3,Porterhouse Pork Chops
+5 Alex Dimin,131 : Skirt,14.85,8.5,126.23,Skirt
+5 Alex Dimin,207 : Lamb Saddle Chops,4.5,10,45,Lamb Saddle Chops
+5 Alex Dimin,109 : Brisket,13.14,5.55,72.93,Brisket
+50 Gemma,142 : Chuck Underblade,21.5,7.5,161.25,Chuck Underblade
+50 Gemma,409 : Pork Spare Ribs,12.5,4,50,Pork Spare Ribs
+50 Gemma,406 : Pork Center Cut Rib Rack,9.5,8.5,80.75,Pork Center Cut Rib Rack
+507 Bar Bolinas,119 : Ground Beef,1422.45,4.5,6401.03,Ground Beef
+507 Bar Bolinas,130 : Bnls Top Sirloin Butt,253.535,8.5,2155.05,Bnls Top Sirloin Butt
+507 Bar Bolinas,146 : Beef Patties,1274.77,5,6373.85,Beef Patties
+509 Sate Kampar,123 : Beef Organs,28.71,1.5,43.07,Beef Organs
+52 Gran Electrica,208 : Leg of Lamb,34,8,272,Leg of Lamb
+52 Gran Electrica,202 : Lamb Bone in Breast,10.69,4,42.76,Lamb Bone in Breast
+52 Gran Electrica,212 : Lamb Shank,49.07,6.25,306.69,Lamb Shank
+525 High Street Hospitality : High Street on Hudson,119 : Ground Beef,10.05,0,0,Ground Beef
+525 High Street Hospitality : High Street on Hudson,131 : Skirt,18.66,8.5,158.61,Skirt
+527 Honeygrow,169 : Honeygrow Beef,31792.83,4.75,151015.97,Honeygrow Beef
+527 Honeygrow,108 : Bottom Round,9.6,5,48,Bottom Round
+527 Honeygrow,139 : Top Round,18.15,5.5,99.83,Top Round
+527 Honeygrow,116 : Eye of Round,4.27,6.5,27.76,Eye of Round
+546 Five Leaves,202 : Lamb Bone in Breast,78.72,5.25,413.29,Lamb Bone in Breast
+546 Five Leaves,142 : Chuck Underblade,325,8.96,2911.5,Chuck Underblade
+546 Five Leaves,119 : Ground Beef,15099.245,4,60396.98,Ground Beef
+546 Five Leaves,211 : Lamb Saddle,38.5,10,385,Lamb Saddle
+582 Mariposa Food Co-op,112 : Chuck Eye,122.25,6.75,825.2,Chuck Eye
+582 Mariposa Food Co-op,109 : Brisket,78.9,6,473.4,Brisket
+582 Mariposa Food Co-op,132 : Stew Meat,335.34,6,2012.04,Stew Meat
+582 Mariposa Food Co-op,105 : Top Blade Roast,0.74,0,0,Top Blade Roast
+582 Mariposa Food Co-op,206 : Ground Lamb,20.09,8.25,165.74,Ground Lamb
+582 Mariposa Food Co-op,119 : Ground Beef,2261.21,5,11306.05,Ground Beef
+582 Mariposa Food Co-op,130 : Bnls Top Sirloin Butt,789.94,8.46,6684.31,Bnls Top Sirloin Butt
+582 Mariposa Food Co-op,997: Dry Age Cut/Vac/Portion,31.79,1.45,46.1,ry Age Cut/Vac/Portion
+582 Mariposa Food Co-op,146 : Beef Patties,127.87,5.32,680.37,Beef Patties
+582 Mariposa Food Co-op,164: 5.3oz Frozen Mushroom Patties 1#/pk 24#/cs,36.75,5.05,185.59,.3oz Frozen Mushroom Patties 1#/pk 24#/cs
+584 Mercer Kitchen,124 : Oxtail,30.65,4,122.6,Oxtail
+584 Mercer Kitchen,112 : Chuck Eye,30.03,4,120.12,Chuck Eye
+584 Mercer Kitchen,105 : Top Blade Roast,93.26,5.47,510.52,Top Blade Roast
+584 Mercer Kitchen,127 : Beef Shanks,59.24,4.36,258.03,Beef Shanks
+584 Mercer Kitchen,168: Happy Valley Meatballs,192.47,4.7,904.68,appy Valley Meatballs
+584 Mercer Kitchen,130 : Bnls Top Sirloin Butt,29.69,4,118.76,Bnls Top Sirloin Butt
+584 Mercer Kitchen,119 : Ground Beef,3223.18,6,19339.08,Ground Beef
+584 Mercer Kitchen,140 : Tri-Tip,31.25,4,125,Tri-Tip
+584 Mercer Kitchen,128 : Short Ribs,218.11,4,872.44,Short Ribs
+584 Mercer Kitchen,116 : Eye of Round,25.33,6.5,164.65,Eye of Round
+584 Mercer Kitchen,135 : Tenderloin,24.19,18,435.42,Tenderloin
+607 La Vara,119 : Ground Beef,20.46,2.23,45.68,Ground Beef
+607 La Vara,135 : Tenderloin,482.91,18,8692.38,Tenderloin
+607 La Vara,112 : Chuck Eye,16.5,6.5,107.25,Chuck Eye
+607 La Vara,142 : Chuck Underblade,13,9.5,123.5,Chuck Underblade
+607:1 La Vara : Txikito,127 : Beef Shanks,22.8,4.75,108.3,Beef Shanks
+607:1 La Vara : Txikito,119 : Ground Beef,15,4.5,67.5,Ground Beef
+623 Cherrypoint,207 : Lamb Saddle Chops,7.16,10,71.6,Lamb Saddle Chops
+632 Sunshine Co.,119 : Ground Beef,2148.86,4.5,9669.92,Ground Beef
+632 Sunshine Co.,137 : Teres Major,1135.02,6,6810.12,Teres Major
+"643 To-Jo Mushrooms, Inc.",164: 5.3oz Frozen Mushroom Patties 1#/pk 24#/cs,2,5.05,10.1,.3oz Frozen Mushroom Patties 1#/pk 24#/cs
+"643 To-Jo Mushrooms, Inc.",999: Misc,1,2.75,2.75,isc
+651 Benchmarc : Landmarc Time Warner Center,115 : Export Ribeye,2125.32,12,25503.84,Export Ribeye
+664 Rosewater,119 : Ground Beef,983.31,4.5,4424.94,Ground Beef
+664 Rosewater,208 : Leg of Lamb,23.11,7.56,174.64,Leg of Lamb
+664 Rosewater,126 : Bnls Ribeye,13.2,14,184.8,Bnls Ribeye
+664 Rosewater,108 : Bottom Round,12,5,60,Bottom Round
+664 Rosewater,404 : Pork Belly,134.41,5,672.05,Pork Belly
+664 Rosewater,213 : Lamb Shoulder,7.09,8,56.72,Lamb Shoulder
+664 Rosewater,107 : Beef Bones,10,2,20,Beef Bones
+664 Rosewater,403 : Pork Picnic Shoulder,36.52,5,182.6,Pork Picnic Shoulder
+664 Rosewater,409 : Pork Spare Ribs,60.5,4.55,275,Pork Spare Ribs
+664 Rosewater,112 : Chuck Eye,11.28,6.5,73.32,Chuck Eye
+664 Rosewater,138 : Beef Tongue,11.5,5,57.5,Beef Tongue
+664 Rosewater,140 : Tri-Tip,3.8,7.5,28.5,Tri-Tip
+664 Rosewater,128 : Short Ribs,34.6,6.5,224.9,Short Ribs
+664 Rosewater,148 : Marrow Bones,10.5,2.5,26.25,Marrow Bones
+664 Rosewater,109 : Brisket,86.05,5.53,475.86,Brisket
+666 The Flower Shop,105 : Top Blade Roast,44.8,6.87,307.97,Top Blade Roast
+666 The Flower Shop,112 : Chuck Eye,47.86,5.66,270.84,Chuck Eye
+666 The Flower Shop,121 : Family Meal,4.48,4,17.92,Family Meal
+666 The Flower Shop,116 : Eye of Round,71.53,5.09,364.33,Eye of Round
+666 The Flower Shop,142 : Chuck Underblade,35.27,5.2,183.55,Chuck Underblade
+666 The Flower Shop,207 : Lamb Saddle Chops,12.18,10,121.8,Lamb Saddle Chops
+666 The Flower Shop,139 : Top Round,42.06,5.5,231.33,Top Round
+666 The Flower Shop,168: Happy Valley Meatballs,50,7.24,362,appy Valley Meatballs
+666 The Flower Shop,130 : Bnls Top Sirloin Butt,11.25,8.5,95.63,Bnls Top Sirloin Butt
+666 The Flower Shop,135 : Tenderloin,4.5,18,81,Tenderloin
+666 The Flower Shop,140 : Tri-Tip,318.5,7.3,2326.23,Tri-Tip
+666 The Flower Shop,214 : Lamb Trim,9.95,7.5,74.63,Lamb Trim
+666 The Flower Shop,118 : Flap Steak,11.38,8.5,96.73,Flap Steak
+666 The Flower Shop,407 : Porterhouse Pork Chops,30.44,4.8,146.24,Porterhouse Pork Chops
+666 The Flower Shop,117 : Flank Steak,11.37,8.5,96.65,Flank Steak
+666 The Flower Shop,409 : Pork Spare Ribs,46.43,5.12,237.58,Pork Spare Ribs
+666 The Flower Shop,131 : Skirt,73.72,8.54,629.89,Skirt
+666 The Flower Shop,108 : Bottom Round,141.28,5,706.4,Bottom Round
+666 The Flower Shop,133 : Bnls Strip Loin,661.8,13,8603.4,Bnls Strip Loin
+666 The Flower Shop,123 : Beef Organs,16.83,2.29,38.61,Beef Organs
+666 The Flower Shop,146 : Beef Patties,1519.715,4.99,7585.08,Beef Patties
+666 The Flower Shop,128 : Short Ribs,32,4,128,Short Ribs
+666 The Flower Shop,213 : Lamb Shoulder,7.73,7.5,57.98,Lamb Shoulder
+666 The Flower Shop,120 : Hanger Steak,11.1,8.5,94.35,Hanger Steak
+667 Great Performances,119 : Ground Beef,4085.66,3.5,14299.86,Ground Beef
+667 Great Performances,168: Happy Valley Meatballs,330,7.24,2389.2,appy Valley Meatballs
+668 Eugene's : The Cookery,213 : Lamb Shoulder,15.5,4,62,Lamb Shoulder
+668 Eugene's : The Cookery,409 : Pork Spare Ribs,26.5,4,106,Pork Spare Ribs
+668 Eugene's : The Cookery,131 : Skirt,6.5,4,26,Skirt
+668 Eugene's : The Cookery,208 : Leg of Lamb,23.16,7.77,180.03,Leg of Lamb
+668 Eugene's : The Cookery,214 : Lamb Trim,31,4,124,Lamb Trim
+668 Eugene's : The Cookery,108 : Bottom Round,9.21,4,36.84,Bottom Round
+668 Eugene's : The Cookery,142 : Chuck Underblade,117.81,9.07,1068.2,Chuck Underblade
+670 Little Beet Table : Little Beet Table NYC,119 : Ground Beef,5,4.5,22.5,Ground Beef
+670 Little Beet Table : Little Beet Table NYC,140 : Tri-Tip,638.78,7.17,4580.2,Tri-Tip
+670 Little Beet Table : Little Beet Table NYC,405 : Pork Country Rib Rack,5.65,0,0,Pork Country Rib Rack
+670 Little Beet Table : Little Beet Table NYC,124 : Oxtail,14,6.61,92.5,Oxtail
+670 Little Beet Table : Little Beet Table NYC,403 : Pork Picnic Shoulder,1481.33,5,7406.65,Pork Picnic Shoulder
+670 Little Beet Table : Little Beet Table NYC,402 : Pork Boston Butt,51.4,5.5,282.7,Pork Boston Butt
+670 Little Beet Table : Little Beet Table NYC,117 : Flank Steak,21.5,8.5,182.75,Flank Steak
+670 Little Beet Table : Little Beet Table NYC,105 : Top Blade Roast,40.5,8.5,344.25,Top Blade Roast
+670 Little Beet Table : Little Beet Table NYC,112 : Chuck Eye,21.11,6.5,137.22,Chuck Eye
+670 Little Beet Table : Little Beet Table NYC,131 : Skirt,312.86,8.5,2659.31,Skirt
+670 Little Beet Table : Little Beet Table NYC,142 : Chuck Underblade,50,9.5,475,Chuck Underblade
+670 Little Beet Table : Little Beet Table NYC,146 : Beef Patties,5334.37,5,26646.55,Beef Patties
+685 The Dutch,146 : Beef Patties,2363.38,5,11811.85,Beef Patties
+685 The Dutch,210 : Lamb Rack of Ribs,1493.685,12,17924.22,Lamb Rack of Ribs
+695 Speedy Romeo : Speedy Romeo LES,119 : Ground Beef,1508.58,4.5,6788.65,Ground Beef
+695 Speedy Romeo : Speedy Romeo LES,105 : Top Blade Roast,13.2,4,52.8,Top Blade Roast
+695 Speedy Romeo : Speedy Romeo LES,414 : Ground Pork,100.47,3.5,351.66,Ground Pork
+695 Speedy Romeo : Speedy Romeo LES,410 : Pork St. Louis Ribs,33.74,5.75,194.01,Pork St. Louis Ribs
+695 Speedy Romeo : Speedy Romeo LES,168: Happy Valley Meatballs,10,4,40,appy Valley Meatballs
+7 Allswell,107 : Beef Bones,15,2,30,Beef Bones
+7 Allswell,146 : Beef Patties,4614.04,5,23070.2,Beef Patties
+7 Allswell,119 : Ground Beef,2931.6,4.5,13192.21,Ground Beef
+706 Lighthouse,133 : Bnls Strip Loin,54.26,11.11,602.89,Bnls Strip Loin
+706 Lighthouse,116 : Eye of Round,339.92,6.5,2209.56,Eye of Round
+706 Lighthouse,168: Happy Valley Meatballs,10.35,0,0,appy Valley Meatballs
+706 Lighthouse,105 : Top Blade Roast,6.72,4,26.88,Top Blade Roast
+706 Lighthouse,139 : Top Round,19.5,5.5,107.25,Top Round
+706 Lighthouse,119 : Ground Beef,2017.43,4.5,9078.52,Ground Beef
+706 Lighthouse,402 : Pork Boston Butt,34,5,170,Pork Boston Butt
+706 Lighthouse,130 : Bnls Top Sirloin Butt,1993.98,8.5,16948.93,Bnls Top Sirloin Butt
+706:1 Lighthouse : Lighthouse Outpost,139 : Top Round,511.27,5.5,2812,Top Round
+706:1 Lighthouse : Lighthouse Outpost,164: 5.3oz Frozen Mushroom Patties 1#/pk 24#/cs,283.4,5.05,1431.18,.3oz Frozen Mushroom Patties 1#/pk 24#/cs
+707 Almond : Almond - Bridgehampton,124 : Oxtail,4.83,7.25,35.02,Oxtail
+707 Almond : Almond - Bridgehampton,128 : Short Ribs,25.29,6.5,164.39,Short Ribs
+707 Almond : Almond - Bridgehampton,109 : Brisket,102.68,5.2,533.98,Brisket
+707 Almond : Almond - Bridgehampton,119 : Ground Beef,1330.9,4,5323.6,Ground Beef
+707 Almond : Almond - Bridgehampton,133 : Bnls Strip Loin,36.47,11,401.17,Bnls Strip Loin
+707 Almond : Almond - Bridgehampton,105 : Top Blade Roast,5.09,4,20.36,Top Blade Roast
+707 Almond : Almond - Bridgehampton,142 : Chuck Underblade,22.47,8,179.76,Chuck Underblade
+707 Almond : Almond - Bridgehampton,138 : Beef Tongue,9.95,6,59.7,Beef Tongue
+707 Almond : Almond - Bridgehampton,404 : Pork Belly,93.86,4.99,468.35,Pork Belly
+707 Almond : Almond - Bridgehampton,419 : Pork Trim,104.065,3.31,343.97,Pork Trim
+707 Almond : Almond - Bridgehampton,212 : Lamb Shank,21.5,6.25,134.38,Lamb Shank
+707 Almond : Almond - Bridgehampton,407 : Porterhouse Pork Chops,86.2,9,775.8,Porterhouse Pork Chops
+707 Almond : Almond - Bridgehampton,117 : Flank Steak,40.73,7.35,299.37,Flank Steak
+707 Almond : Almond - Bridgehampton,112 : Chuck Eye,15,4,60,Chuck Eye
+707 Almond : Almond - Bridgehampton,405 : Pork Country Rib Rack,25,5.5,137.5,Pork Country Rib Rack
+707 Almond : Almond - Bridgehampton,409 : Pork Spare Ribs,35,3.5,122.5,Pork Spare Ribs
+707 Almond : Almond - Bridgehampton,111 : Chuck Roll,6.225,4,24.9,Chuck Roll
+707 Almond : Almond - Bridgehampton,421: Whole Pork Rib Roast,18.5,9,166.5,hole Pork Rib Roast
+707 Almond : Almond - Bridgehampton,127 : Beef Shanks,8.85,4,35.4,Beef Shanks
+707 Almond : Almond - Bridgehampton,213 : Lamb Shoulder,59.18,8,473.44,Lamb Shoulder
+707 Almond : Almond - Bridgehampton,131 : Skirt,954.53,7.24,6915.29,Skirt
+73 Modzel Family Farm,135 : Tenderloin,6.1,14,85.4,Tenderloin
+73 Modzel Family Farm,146 : Beef Patties,24.95,4,99.8,Beef Patties
+737 Oak + Almond,409 : Pork Spare Ribs,23,3,69,Pork Spare Ribs
+737 Oak + Almond,124 : Oxtail,27.3,5.16,140.83,Oxtail
+737 Oak + Almond,119 : Ground Beef,2355.92,4.5,10601.69,Ground Beef
+737 Oak + Almond,412 : Pork Boneless Ham,40.65,3.5,142.28,Pork Boneless Ham
+737 Oak + Almond,419 : Pork Trim,2755.49,3.5,9644.26,Pork Trim
+737 Oak + Almond,142 : Chuck Underblade,5,9.5,47.5,Chuck Underblade
+737 Oak + Almond,118 : Flap Steak,27.5,8.5,233.75,Flap Steak
+737 Oak + Almond,126 : Bnls Ribeye,506.45,14,7090.3,Bnls Ribeye
+737 Oak + Almond,131 : Skirt,415.835,8.5,3534.61,Skirt
+742 Almond : Almond - Flatiron,406 : Pork Center Cut Rib Rack,8.5,9,76.5,Pork Center Cut Rib Rack
+742 Almond : Almond - Flatiron,146 : Beef Patties,204.54,4.5,920.44,Beef Patties
+742 Almond : Almond - Flatiron,407 : Porterhouse Pork Chops,652.51,9,5872.6,Porterhouse Pork Chops
+742 Almond : Almond - Flatiron,409 : Pork Spare Ribs,35.5,4,142,Pork Spare Ribs
+742 Almond : Almond - Flatiron,131 : Skirt,543,7.35,3991.07,Skirt
+742 Almond : Almond - Flatiron,119 : Ground Beef,1530.23,4,6120.92,Ground Beef
+742 Almond : Almond - Flatiron,140 : Tri-Tip,16.37,4,65.48,Tri-Tip
+742 Almond : Almond - Flatiron,105 : Top Blade Roast,46.63,4,186.52,Top Blade Roast
+742 Almond : Almond - Flatiron,405 : Pork Country Rib Rack,67.51,5.86,395.81,Pork Country Rib Rack
+742 Almond : Almond - Flatiron,212 : Lamb Shank,118.85,6.25,742.82,Lamb Shank
+750:2 Masonic Village : Clubhouse Kitchen,119 : Ground Beef,568.05,2.4,1363.32,Ground Beef
+750:2 Masonic Village : Clubhouse Kitchen,146 : Beef Patties,1193.74,3.45,4118.42,Beef Patties
+750:3 Masonic Village : Eisenlohr Dining Room,146 : Beef Patties,30.88,3.45,106.54,Beef Patties
+750:3 Masonic Village : Eisenlohr Dining Room,135 : Tenderloin,306.63,12,3679.56,Tenderloin
+750:3 Masonic Village : Eisenlohr Dining Room,133 : Bnls Strip Loin,25.2,9,226.8,Bnls Strip Loin
+750:3 Masonic Village : Eisenlohr Dining Room,126 : Bnls Ribeye,24.98,9,224.82,Bnls Ribeye
+750:4 Masonic Village : Three Loaves Cafe,146 : Beef Patties,510.92,3.45,1762.67,Beef Patties
+750:5 Masonic Village : Village Cafe,146 : Beef Patties,1510.918,3.45,5212.67,Beef Patties
+750:6 Masonic Village : GLH Kitchen,146 : Beef Patties,1349.86,3.45,4657.01,Beef Patties
+750:6 Masonic Village : GLH Kitchen,135 : Tenderloin,41.61,12,499.32,Tenderloin
+750:6 Masonic Village : GLH Kitchen,119 : Ground Beef,19.44,2.4,46.66,Ground Beef
+750:7 Masonic Village : Culinary Arts Center,146 : Beef Patties,108.32,3.45,373.7,Beef Patties
+750:7 Masonic Village : Culinary Arts Center,119 : Ground Beef,2572.22,2.4,6173.32,Ground Beef
+757 Dante's Restaurants Inc : The Deli Restaurant,119 : Ground Beef,656.15,3.5,2296.54,Ground Beef
+757 Dante's Restaurants Inc : The Deli Restaurant,108 : Bottom Round,9.03,5,45.15,Bottom Round
+757 Dante's Restaurants Inc : The Deli Restaurant,139 : Top Round,479.71,5.5,2638.43,Top Round
+758 DiCarlo Distributors Inc,141 : Beef for Grinding,2139.5,3.25,6953.38,Beef for Grinding
+790 The Little Beet - Fast Casual,122 : Beef Navel,9.04,6.5,58.76,Beef Navel
+790 The Little Beet - Fast Casual,119 : Ground Beef,65.14,4.5,293.14,Ground Beef
+812 Wildair,213 : Lamb Shoulder,115.98,8,927.84,Lamb Shoulder
+812 Wildair,208 : Leg of Lamb,10.24,8,81.92,Leg of Lamb
+812 Wildair,999: Misc,0.3,1,0.3,isc
+812 Wildair,142 : Chuck Underblade,11,4.5,49.5,Chuck Underblade
+812 Wildair,130 : Bnls Top Sirloin Butt,798.49,8.5,6787.24,Bnls Top Sirloin Butt
+812 Wildair,119 : Ground Beef,459.91,4.5,2069.63,Ground Beef
+812:2 Wildair : Una Pizza Napoletana,135 : Tenderloin,108.5,15,1627.5,Tenderloin
+83 Our Harvest,115 : Export Ribeye,203.47,10,2034.7,Export Ribeye
+83 Our Harvest,420: Pork Shortloin,24.5,9,220.5,ork Shortloin
+83 Our Harvest,409 : Pork Spare Ribs,25.1,5.75,144.33,Pork Spare Ribs
+83 Our Harvest,402 : Pork Boston Butt,28,5.5,154,Pork Boston Butt
+83 Our Harvest,405 : Pork Country Rib Rack,17.8,6,106.8,Pork Country Rib Rack
+83 Our Harvest,419 : Pork Trim,41.2,3.5,144.2,Pork Trim
+83 Our Harvest,214 : Lamb Trim,20,7.5,150,Lamb Trim
+83 Our Harvest,404 : Pork Belly,16.2,8.75,141.75,Pork Belly
+83 Our Harvest,210 : Lamb Rack of Ribs,13.4,16.1,215.74,Lamb Rack of Ribs
+83 Our Harvest,406 : Pork Center Cut Rib Rack,17.67,9,159.03,Pork Center Cut Rib Rack
+83 Our Harvest,131 : Skirt,57.4,7.5,430.51,Skirt
+83 Our Harvest,998: Dry Age Fee,31.23,1.05,32.79,ry Age Fee
+83 Our Harvest,213 : Lamb Shoulder,50,8,400,Lamb Shoulder
+83 Our Harvest,117 : Flank Steak,21.05,7.5,157.88,Flank Steak
+83 Our Harvest,135 : Tenderloin,189.495,15,2842.43,Tenderloin
+83 Our Harvest,129 : Shortloin,62.83,11,691.13,Shortloin
+83 Our Harvest,208 : Leg of Lamb,80.2,7.5,601.5,Leg of Lamb
+83 Our Harvest,211 : Lamb Saddle,19.6,14.1,276.36,Lamb Saddle
+83 Our Harvest,206 : Ground Lamb,20,7.5,150,Ground Lamb
+83 Our Harvest,997: Dry Age Cut/Vac/Portion,31.23,1.45,45.28,ry Age Cut/Vac/Portion
+83 Our Harvest,414 : Ground Pork,64.1,3.5,224.35,Ground Pork
+83 Our Harvest,103 : Back Ribs,12.45,4,49.8,Back Ribs
+838 Lupa,133 : Bnls Strip Loin,24,12,288,Bnls Strip Loin
+84 Ox Verte,139 : Top Round,362.14,4.75,1720.17,Top Round
+84 Ox Verte,111 : Chuck Roll,417.73,4.75,1984.22,Chuck Roll
+84 Ox Verte,168: Happy Valley Meatballs,160,7.24,1158.4,appy Valley Meatballs
+84 Ox Verte,108 : Bottom Round,108.5,4.75,515.38,Bottom Round
+84 Ox Verte,128 : Short Ribs,11.67,6.5,75.86,Short Ribs
+84 Ox Verte,Shipping,-55,1,-55,ng
+84 Ox Verte,112 : Chuck Eye,3422.87,4.75,16258.68,Chuck Eye
+84 Ox Verte,109 : Brisket,271.86,4.75,1291.34,Brisket
+84 Ox Verte,142 : Chuck Underblade,480.27,4.75,2281.29,Chuck Underblade
+850 Court Street Grocers,419 : Pork Trim,10,3.5,35,Pork Trim
+850 Court Street Grocers,403 : Pork Picnic Shoulder,1068.607,5,5343.09,Pork Picnic Shoulder
+850 Court Street Grocers,138 : Beef Tongue,43.54,7.5,326.55,Beef Tongue
+850 Court Street Grocers,404 : Pork Belly,1347.84,5,6739.26,Pork Belly
+850 Court Street Grocers,412 : Pork Boneless Ham,17.35,3.5,60.73,Pork Boneless Ham
+850 Court Street Grocers,402 : Pork Boston Butt,1536.41,5.05,7757.24,Pork Boston Butt
+850 Court Street Grocers,130 : Bnls Top Sirloin Butt,144.3,6.5,937.95,Bnls Top Sirloin Butt
+850 Court Street Grocers,139 : Top Round,4200.17,4.3,18055.71,Top Round
+850 Court Street Grocers,108 : Bottom Round,7531.995,4,30127.98,Bottom Round
+853 Diner,213 : Lamb Shoulder,45.07,8,360.56,Lamb Shoulder
+853 Diner,211 : Lamb Saddle,24.5,10,245,Lamb Saddle
+853 Diner,403 : Pork Picnic Shoulder,32,5,160,Pork Picnic Shoulder
+853 Diner,109 : Brisket,55.48,5.5,305.14,Brisket
+853 Diner,404 : Pork Belly,150.25,5,751.25,Pork Belly
+853 Diner,148 : Marrow Bones,10,2.5,25,Marrow Bones
+853 Diner,209 : Lamb Neck,20.14,4.25,85.6,Lamb Neck
+860 Little Beet Table : Little Beet Table Chicago,131 : Skirt,15.3,8.5,130.05,Skirt
+860 Little Beet Table : Little Beet Table Chicago,140 : Tri-Tip,28.17,7.5,211.28,Tri-Tip
+860 Little Beet Table : Little Beet Table Chicago,142 : Chuck Underblade,18.7,8.22,153.65,Chuck Underblade
+860 Little Beet Table : Little Beet Table Chicago,146 : Beef Patties,2575.11,5,12875.55,Beef Patties
+860 Little Beet Table : Little Beet Table Chicago,118 : Flap Steak,13.93,8.5,118.41,Flap Steak
+863 Momofuku : Ssam,131 : Skirt,1.49,8.5,12.67,Skirt
+863 Momofuku : Ssam,158: Merlot Steak,1.74,8.5,14.79,erlot Steak
+863 Momofuku : Ssam,133 : Bnls Strip Loin,13.9,14,194.6,Bnls Strip Loin
+863 Momofuku : Ssam,109 : Brisket,3109.18,4.5,13991.38,Brisket
+863 Momofuku : Ssam,127 : Beef Shanks,7.18,4.75,34.11,Beef Shanks
+863 Momofuku : Ssam,117 : Flank Steak,2.13,8.5,18.11,Flank Steak
+863 Momofuku : Ssam,124 : Oxtail,2.87,7.25,20.81,Oxtail
+863 Momofuku : Ssam,142 : Chuck Underblade,13.26,9.5,125.97,Chuck Underblade
+863 Momofuku : Ssam,105 : Top Blade Roast,15.73,8.5,133.71,Top Blade Roast
+863 Momofuku : Ssam,116 : Eye of Round,4.98,6.5,32.37,Eye of Round
+863 Momofuku : Ssam,126 : Bnls Ribeye,12.55,12.5,156.88,Bnls Ribeye
+863 Momofuku : Ssam,999: Misc,14,0,0,isc
+863 Momofuku : Ssam,113 : Shoulder Clod,7.3,5.5,40.15,Shoulder Clod
+863 Momofuku : Ssam,135 : Tenderloin,7.26,18,130.68,Tenderloin
+865 Cafe Cluny,123 : Beef Organs,21.3,1.5,31.95,Beef Organs
+865 Cafe Cluny,208 : Leg of Lamb,64.19,8,513.52,Leg of Lamb
+872 Speedy Romeo : Speedy Romeo BK,119 : Ground Beef,2790.23,4.5,12556.08,Ground Beef
+872 Speedy Romeo : Speedy Romeo BK,109 : Brisket,14.85,0,0,Brisket
+876:865 Momofuku : Wayo,109 : Brisket,10,5.55,55.5,Brisket
+876:865 Momofuku : Wayo,139 : Top Round,10,5.5,55,Top Round
+876:865 Momofuku : Wayo,116 : Eye of Round,33.43,6.5,217.3,Eye of Round
+876:865 Momofuku : Wayo,127 : Beef Shanks,46.31,4.75,219.97,Beef Shanks
+877:861 Little Beet Table : Little Beet Table Greenwich,105 : Top Blade Roast,20.24,4,80.96,Top Blade Roast
+877:861 Little Beet Table : Little Beet Table Greenwich,117 : Flank Steak,40.99,8.5,348.42,Flank Steak
+877:861 Little Beet Table : Little Beet Table Greenwich,118 : Flap Steak,24.8,8.5,210.8,Flap Steak
+877:861 Little Beet Table : Little Beet Table Greenwich,142 : Chuck Underblade,27.83,9.5,264.39,Chuck Underblade
+877:861 Little Beet Table : Little Beet Table Greenwich,140 : Tri-Tip,83.33,7.5,624.98,Tri-Tip
+877:861 Little Beet Table : Little Beet Table Greenwich,146 : Beef Patties,858.33,5,4291.65,Beef Patties
+884 Brick Farm Group : Brick Farm Market,109 : Brisket,71.81,5.55,398.55,Brisket
+884 Brick Farm Group : Brick Farm Market,115 : Export Ribeye,167.66,12,2011.92,Export Ribeye
+884 Brick Farm Group : Brick Farm Market,144 : Bone in Strip,36.21,12,434.52,Bone in Strip
+884 Brick Farm Group : Brick Farm Market,133 : Bnls Strip Loin,379.78,14,5316.92,Bnls Strip Loin
+884 Brick Farm Group : Brick Farm Market,135 : Tenderloin,79.6,18,1432.8,Tenderloin
+884 Brick Farm Group : Brick Farm Market,123 : Beef Organs,353.02,1,353.02,Beef Organs
+884 Brick Farm Group : Brick Farm Market,126 : Bnls Ribeye,130.2,14,1822.8,Bnls Ribeye
+893 Mike's Organic  Delivery,140 : Tri-Tip,34.06,7.5,255.46,Tri-Tip
+893 Mike's Organic  Delivery,997: Dry Age Cut/Vac/Portion,703.325,1.45,1019.82,ry Age Cut/Vac/Portion
+893 Mike's Organic  Delivery,206 : Ground Lamb,24.37,8.25,201.05,Ground Lamb
+893 Mike's Organic  Delivery,109 : Brisket,105.5,6,633.11,Brisket
+893 Mike's Organic  Delivery,146 : Beef Patties,176.13,5,880.65,Beef Patties
+893 Mike's Organic  Delivery,130 : Bnls Top Sirloin Butt,24.98,8.5,212.33,Bnls Top Sirloin Butt
+893 Mike's Organic  Delivery,144 : Bone in Strip,106.26,12.55,1333.92,Bone in Strip
+893 Mike's Organic  Delivery,998: Dry Age Fee,21.38,1.05,22.45,ry Age Fee
+893 Mike's Organic  Delivery,117 : Flank Steak,253.56,8.02,2033.66,Flank Steak
+893 Mike's Organic  Delivery,126 : Bnls Ribeye,329.37,14.36,4731.11,Bnls Ribeye
+893 Mike's Organic  Delivery,153: Chip Steak,25.58,7.5,191.86,hip Steak
+893 Mike's Organic  Delivery,115 : Export Ribeye,21.38,12,256.56,Export Ribeye
+893 Mike's Organic  Delivery,133 : Bnls Strip Loin,328.095,14.28,4684.62,Bnls Strip Loin
+893 Mike's Organic  Delivery,119 : Ground Beef,26.15,4.5,117.68,Ground Beef
+893 Mike's Organic  Delivery,131 : Skirt,194.36,8.5,1652.08,Skirt
+893 Mike's Organic  Delivery,135 : Tenderloin,292.09,19.14,5589.65,Tenderloin
+893 Mike's Organic  Delivery,132 : Stew Meat,8.15,6,48.9,Stew Meat
+9 Amos Beiler,146 : Beef Patties,152.16,4,608.64,Beef Patties
+9 Amos Beiler,108 : Bottom Round,61,4,244,Bottom Round
+9 Amos Beiler,124 : Oxtail,115.55,4.56,526.47,Oxtail
+9 Amos Beiler,107 : Beef Bones,304.26,1.23,374.11,Beef Bones
+9 Amos Beiler,129 : Shortloin,209.1,9,1881.9,Shortloin
+9 Amos Beiler,115 : Export Ribeye,66.9,9,602.1,Export Ribeye
+9 Amos Beiler,126 : Bnls Ribeye,124.15,10,1241.5,Bnls Ribeye
+9 Amos Beiler,123 : Beef Organs,115.98,1.44,167.26,Beef Organs
+9 Amos Beiler,131 : Skirt,58.67,7.12,417.89,Skirt
+9 Amos Beiler,112 : Chuck Eye,15,6.5,97.5,Chuck Eye
+9 Amos Beiler,154 : Delmonico Roast,107.4,7.5,805.43,Delmonico Roast
+9 Amos Beiler,105 : Top Blade Roast,18.815,6,112.89,Top Blade Roast
+9 Amos Beiler,127 : Beef Shanks,107.905,4,431.62,Beef Shanks
+9 Amos Beiler,130 : Bnls Top Sirloin Butt,75.02,6,450.12,Bnls Top Sirloin Butt
+9 Amos Beiler,167 : Sirloin Tip,142.655,4,570.62,Sirloin Tip
+9 Amos Beiler,119 : Ground Beef,384.45,3.5,1345.59,Ground Beef
+9 Amos Beiler,118 : Flap Steak,6.4,6,38.4,Flap Steak
+9 Amos Beiler,109 : Brisket,45.48,4.55,206.94,Brisket
+9 Amos Beiler,139 : Top Round,128.95,4.6,593.58,Top Round
+9 Amos Beiler,135 : Tenderloin,180.83,13.5,2441.23,Tenderloin
+9 Amos Beiler,133 : Bnls Strip Loin,100.76,10,1007.6,Bnls Strip Loin
+9 Amos Beiler,138 : Beef Tongue,55.55,4,222.2,Beef Tongue
+9 Amos Beiler,117 : Flank Steak,37.1,7.83,290.66,Flank Steak
+906 Samesa,208 : Leg of Lamb,11.585,8,92.68,Leg of Lamb
+906 Samesa,202 : Lamb Bone in Breast,5.52,5.25,28.98,Lamb Bone in Breast
+906 Samesa,209 : Lamb Neck,4.995,4.25,21.23,Lamb Neck
+906 Samesa,213 : Lamb Shoulder,1525.42,8,12203.36,Lamb Shoulder
+906 Samesa,216: Boneless Leg of Lamb,67.24,8,537.92,oneless Leg of Lamb
+91 Poppy's Catering & Events,117 : Flank Steak,46.5,8.5,395.25,Flank Steak
+91 Poppy's Catering & Events,131 : Skirt,65,8.5,552.5,Skirt
+91 Poppy's Catering & Events,120 : Hanger Steak,15.5,8.5,131.75,Hanger Steak
+914 Canopy Foods,123 : Beef Organs,857.61,0.8,686.09,Beef Organs
+919 Huertas,124 : Oxtail,8.89,4,35.56,Oxtail
+919 Huertas,140 : Tri-Tip,8.73,4,34.92,Tri-Tip
+919 Huertas,105 : Top Blade Roast,34.07,4,136.28,Top Blade Roast
+919 Huertas,128 : Short Ribs,77.92,6.5,506.49,Short Ribs
+919 Huertas,142 : Chuck Underblade,17.86,8.5,151.81,Chuck Underblade
+919 Huertas,118 : Flap Steak,41.43,8.5,352.16,Flap Steak
+919 Huertas,116 : Eye of Round,11.14,4,44.56,Eye of Round
+92 Print Restaurant,210 : Lamb Rack of Ribs,13.61,14,190.54,Lamb Rack of Ribs
+92 Print Restaurant,125 : Rib Cap,341.09,5,1705.45,Rib Cap
+92 Print Restaurant,111 : Chuck Roll,1229.02,5.75,7066.92,Chuck Roll
+92 Print Restaurant,119 : Ground Beef,20,4.5,90,Ground Beef
+92 Print Restaurant,109 : Brisket,759.06,5.55,4212.78,Brisket
+923 M Wells Steakhouse,115 : Export Ribeye,3231.62,12,38779.44,Export Ribeye
+923 M Wells Steakhouse,129 : Shortloin,53.5,11,588.5,Shortloin
+923 M Wells Steakhouse,135 : Tenderloin,63.19,18,1137.42,Tenderloin
+923 M Wells Steakhouse,159 : Beef Hind Quarter,198.96,5,994.8,Beef Hind Quarter
+923 M Wells Steakhouse,100 : Whole Beef,494,5.25,2593.5,Whole Beef
+923 M Wells Steakhouse,123 : Beef Organs,175.97,1.53,268.6,Beef Organs
+923 M Wells Steakhouse,124 : Oxtail,255.62,6.83,1746.42,Oxtail
+923 M Wells Steakhouse,119 : Ground Beef,20.185,4.5,90.84,Ground Beef
+923 M Wells Steakhouse,138 : Beef Tongue,115.01,6.38,733.33,Beef Tongue
+923 M Wells Steakhouse,107 : Beef Bones,18.52,2,37.04,Beef Bones
+923 M Wells Steakhouse,133 : Bnls Strip Loin,29,8.5,246.5,Bnls Strip Loin
+923 M Wells Steakhouse,130 : Bnls Top Sirloin Butt,595.63,8.49,5058.4,Bnls Top Sirloin Butt
+923 M Wells Steakhouse,419 : Pork Trim,25.875,3.5,90.56,Pork Trim
+923 M Wells Steakhouse,404 : Pork Belly,57.09,5,285.45,Pork Belly
+923 M Wells Steakhouse,205 : Lamb Fat Organs,154.47,3,463.41,Lamb Fat Organs
+923 M Wells Steakhouse,109 : Brisket,38.5,5.55,213.68,Brisket
+923 M Wells Steakhouse,208 : Leg of Lamb,487.72,8,3901.76,Leg of Lamb
+923 M Wells Steakhouse,402 : Pork Boston Butt,17.44,5.5,95.92,Pork Boston Butt
+923 M Wells Steakhouse,414 : Ground Pork,10.26,3.5,35.91,Ground Pork
+923 M Wells Steakhouse,213 : Lamb Shoulder,45.8,8,366.4,Lamb Shoulder
+923 M Wells Steakhouse,211 : Lamb Saddle,153.48,10,1534.8,Lamb Saddle
+923 M Wells Steakhouse,148 : Marrow Bones,12.5,2.5,31.25,Marrow Bones
+928 King Restaurant,112 : Chuck Eye,15.23,5.75,87.57,Chuck Eye
+928 King Restaurant,406 : Pork Center Cut Rib Rack,31,9,279,Pork Center Cut Rib Rack
+928 King Restaurant,403 : Pork Picnic Shoulder,25,5,125,Pork Picnic Shoulder
+928 King Restaurant,119 : Ground Beef,30.05,4.5,135.23,Ground Beef
+928 King Restaurant,404 : Pork Belly,218,5,1090,Pork Belly
+928 King Restaurant,402 : Pork Boston Butt,252.18,5.5,1387.02,Pork Boston Butt
+928 King Restaurant,109 : Brisket,361.04,5.55,2003.79,Brisket
+928 King Restaurant,138 : Beef Tongue,322.44,7.5,2418.39,Beef Tongue
+928 King Restaurant,127 : Beef Shanks,10,4.75,47.5,Beef Shanks
+928 King Restaurant,405 : Pork Country Rib Rack,15.51,3.43,53.22,Pork Country Rib Rack
+928 King Restaurant,407 : Porterhouse Pork Chops,886.495,9,7978.46,Porterhouse Pork Chops
+928 King Restaurant,421: Whole Pork Rib Roast,34,9,306,hole Pork Rib Roast
+928 King Restaurant,115 : Export Ribeye,22.9,12,274.8,Export Ribeye
+928 King Restaurant,213 : Lamb Shoulder,48.5,8,388,Lamb Shoulder
+928 King Restaurant,215: Lamb Loin,12.78,10,127.8,amb Loin
+928 King Restaurant,133 : Bnls Strip Loin,4333.17,14,60664.47,Bnls Strip Loin
+94 Pub and Kitchen,146 : Beef Patties,50.51,3.5,176.79,Beef Patties
+945 PeachDish,206 : Ground Lamb,40.2,9.75,391.95,Ground Lamb
+948 Perennial Restaurant,405 : Pork Country Rib Rack,217.495,6,1304.97,Pork Country Rib Rack
+948 Perennial Restaurant,207 : Lamb Saddle Chops,4.2,10,42,Lamb Saddle Chops
+948 Perennial Restaurant,128 : Short Ribs,25.5,6.5,165.75,Short Ribs
+948 Perennial Restaurant,117 : Flank Steak,17,8.5,144.5,Flank Steak
+948 Perennial Restaurant,142 : Chuck Underblade,9.5,9.5,90.25,Chuck Underblade
+948 Perennial Restaurant,119 : Ground Beef,131.64,4.13,544.24,Ground Beef
+948 Perennial Restaurant,403 : Pork Picnic Shoulder,58.5,5,292.5,Pork Picnic Shoulder
+948 Perennial Restaurant,130 : Bnls Top Sirloin Butt,278.49,8.5,2367.18,Bnls Top Sirloin Butt
+948 Perennial Restaurant,421: Whole Pork Rib Roast,102.76,9,924.84,hole Pork Rib Roast
+948 Perennial Restaurant,402 : Pork Boston Butt,63.81,5.5,350.96,Pork Boston Butt
+948 Perennial Restaurant,118 : Flap Steak,947.46,8.5,8053.48,Flap Steak
+948 Perennial Restaurant,140 : Tri-Tip,155.73,7.5,1167.98,Tri-Tip
+948 Perennial Restaurant,209 : Lamb Neck,13,4.25,55.25,Lamb Neck
+948 Perennial Restaurant,404 : Pork Belly,734.03,5,3670.16,Pork Belly
+948 Perennial Restaurant,133 : Bnls Strip Loin,51.91,8.5,441.24,Bnls Strip Loin
+948 Perennial Restaurant,208 : Leg of Lamb,450.36,8,3602.88,Leg of Lamb
+948 Perennial Restaurant,406 : Pork Center Cut Rib Rack,76.37,7.9,603.19,Pork Center Cut Rib Rack
+948 Perennial Restaurant,146 : Beef Patties,1.09,0,0,Beef Patties
+948 Perennial Restaurant,131 : Skirt,51,8.5,433.5,Skirt
+948 Perennial Restaurant,415 : Pork Bones,20,3,60,Pork Bones
+952 Farm to People,161: 100% Grass Fed Beef,337.5,5.5,1856.25,00% Grass Fed Beef
+952 Farm to People,147:Flatiron,330.59,10.6,3504.25,atiron
+952 Farm to People,139 : Top Round,41.75,8.5,354.88,Top Round
+954 Here & Now Brewing Company,141 : Beef for Grinding,274.66,4,1098.64,Beef for Grinding
+954 Here & Now Brewing Company,112 : Chuck Eye,37.41,4,149.64,Chuck Eye
+954 Here & Now Brewing Company,115 : Export Ribeye,30,12,360,Export Ribeye
+954 Here & Now Brewing Company,404 : Pork Belly,204.945,5,1024.73,Pork Belly
+954 Here & Now Brewing Company,111 : Chuck Roll,10.835,4,43.34,Chuck Roll
+954 Here & Now Brewing Company,999: Misc,1,0,0,isc
+954 Here & Now Brewing Company,124 : Oxtail,39.55,4,158.2,Oxtail
+954 Here & Now Brewing Company,140 : Tri-Tip,38.11,4,152.44,Tri-Tip
+954 Here & Now Brewing Company,130 : Bnls Top Sirloin Butt,13,4,52,Bnls Top Sirloin Butt
+954 Here & Now Brewing Company,128 : Short Ribs,20.88,6.5,135.72,Short Ribs
+954 Here & Now Brewing Company,127 : Beef Shanks,18.51,4,74.04,Beef Shanks
+954 Here & Now Brewing Company,138 : Beef Tongue,12,5.5,66,Beef Tongue
+954 Here & Now Brewing Company,117 : Flank Steak,11.5,4,46,Flank Steak
+954 Here & Now Brewing Company,116 : Eye of Round,10,4,40,Eye of Round
+954 Here & Now Brewing Company,109 : Brisket,91.35,5.55,507,Brisket
+954 Here & Now Brewing Company,105 : Top Blade Roast,66.19,4,264.76,Top Blade Roast
+954 Here & Now Brewing Company,402 : Pork Boston Butt,114.38,5.33,609.88,Pork Boston Butt
+954 Here & Now Brewing Company,142 : Chuck Underblade,23.64,6.94,164.08,Chuck Underblade
+954 Here & Now Brewing Company,403 : Pork Picnic Shoulder,44,5,220,Pork Picnic Shoulder
+964 INSA,115 : Export Ribeye,2634.39,12,31612.68,Export Ribeye
+964 INSA,142 : Chuck Underblade,8.5,7.5,63.75,Chuck Underblade
+964 INSA,105 : Top Blade Roast,6.95,6.5,45.18,Top Blade Roast
+964 INSA,209 : Lamb Neck,24.5,4,98,Lamb Neck
+964 INSA,124 : Oxtail,90.5,7.25,656.13,Oxtail
+964 INSA,116 : Eye of Round,294.83,6.5,1916.45,Eye of Round
+964 INSA,998: Dry Age Fee,438.57,1.05,460.49,ry Age Fee
+964 INSA,404 : Pork Belly,50.45,5,252.25,Pork Belly
+97 Rising Spring Meats,421: Whole Pork Rib Roast,37.6,7.5,282,hole Pork Rib Roast
+97 Rising Spring Meats,140 : Tri-Tip,4.98,5.5,27.39,Tri-Tip
+97 Rising Spring Meats,112 : Chuck Eye,20.96,4,83.84,Chuck Eye
+97 Rising Spring Meats,117 : Flank Steak,1.8,6.5,11.7,Flank Steak
+97 Rising Spring Meats,158: Merlot Steak,1.5,8.5,12.75,erlot Steak
+97 Rising Spring Meats,115 : Export Ribeye,133.5,10,1335,Export Ribeye
+97 Rising Spring Meats,409 : Pork Spare Ribs,24,3.75,90,Pork Spare Ribs
+97 Rising Spring Meats,120 : Hanger Steak,620.85,6.5,4035.56,Hanger Steak
+97 Rising Spring Meats,109 : Brisket,118.26,4,473.04,Brisket
+97 Rising Spring Meats,402 : Pork Boston Butt,32.52,4.5,146.34,Pork Boston Butt
+97 Rising Spring Meats,131 : Skirt,5.82,6.5,37.83,Skirt
+97 Rising Spring Meats,118 : Flap Steak,4.7,6.5,30.55,Flap Steak
+97 Rising Spring Meats,137 : Teres Major,2.825,6.5,18.36,Teres Major
+97 Rising Spring Meats,139 : Top Round,17.7,4,70.8,Top Round
+97 Rising Spring Meats,129 : Shortloin,42.7,10,427,Shortloin
+97 Rising Spring Meats,142 : Chuck Underblade,32.87,8.77,288.17,Chuck Underblade
+970 Fenwick Catering and Events,119 : Ground Beef,730.95,4.5,3289.28,Ground Beef
+972 The Osprey,146 : Beef Patties,1603.85,5,8019.25,Beef Patties
+972 The Osprey,139 : Top Round,366.48,5.5,2015.66,Top Round
+972 The Osprey,128 : Short Ribs,69.7,7.5,522.75,Short Ribs
+972 The Osprey,116 : Eye of Round,93.33,6.5,606.65,Eye of Round
+972 The Osprey,108 : Bottom Round,90.5,4,362,Bottom Round
+972 The Osprey,109 : Brisket,238.36,4.1,976.69,Brisket
+972 The Osprey,168: Happy Valley Meatballs,50,7.24,362,appy Valley Meatballs
+987 Nourish Kitchen & Table,213 : Lamb Shoulder,34.61,8,276.88,Lamb Shoulder
+987 Nourish Kitchen & Table,212 : Lamb Shank,22.45,6.25,140.31,Lamb Shank
+988 Woldy Reyes,404 : Pork Belly,16.45,5,82.25,Pork Belly
+988 Woldy Reyes,140 : Tri-Tip,14.45,7.5,108.38,Tri-Tip
+99 Rooster St. Provisions,139 : Top Round,820.42,5.46,4482.11,Top Round
+99 Rooster St. Provisions,216: Boneless Leg of Lamb,43.5,7.5,326.25,oneless Leg of Lamb
+99 Rooster St. Provisions,142 : Chuck Underblade,52.3,7.83,409.25,Chuck Underblade
+99 Rooster St. Provisions,404 : Pork Belly,40.5,5,202.5,Pork Belly
+99 Rooster St. Provisions,141 : Beef for Grinding,1093.63,4,4374.52,Beef for Grinding
+99 Rooster St. Provisions,124 : Oxtail,27.6,7.25,200.1,Oxtail
+99 Rooster St. Provisions,108 : Bottom Round,766.23,5,3831.15,Bottom Round
+99 Rooster St. Provisions,123 : Beef Organs,38.48,1.5,57.73,Beef Organs
+99 Rooster St. Provisions,138 : Beef Tongue,4.47,7.5,33.53,Beef Tongue
+99 Rooster St. Provisions,113 : Shoulder Clod,610.13,5.5,3355.77,Shoulder Clod
+99 Rooster St. Provisions,111 : Chuck Roll,980.53,5.75,5638.1,Chuck Roll
+99 Rooster St. Provisions,421: Whole Pork Rib Roast,35.075,7.5,263.06,hole Pork Rib Roast
+99 Rooster St. Provisions,402 : Pork Boston Butt,16.9,5.5,92.95,Pork Boston Butt
+99 Rooster St. Provisions,403 : Pork Picnic Shoulder,15.9,5,79.5,Pork Picnic Shoulder
+99 Rooster St. Provisions,166 : Rooster St. Hot Dogs,21.5,6,129,Rooster St. Hot Dogs
+99 Rooster St. Provisions,126 : Bnls Ribeye,12.44,12,149.28,Bnls Ribeye
+99 Rooster St. Provisions,105 : Top Blade Roast,74.78,8.5,635.66,Top Blade Roast
+99 Rooster St. Provisions,130 : Bnls Top Sirloin Butt,801.515,8.5,6812.98,Bnls Top Sirloin Butt
+99 Rooster St. Provisions,127 : Beef Shanks,21.27,4.75,101.03,Beef Shanks
+99 Rooster St. Provisions,116 : Eye of Round,155.05,5.95,922.54,Eye of Round
+99 Rooster St. Provisions,140 : Tri-Tip,276.45,7.5,2073.43,Tri-Tip
+99 Rooster St. Provisions,208 : Leg of Lamb,228.03,8,1824.24,Leg of Lamb
+99 Rooster St. Provisions,109 : Brisket,1271.35,5.55,7056.03,Brisket
+99 Rooster St. Provisions,107 : Beef Bones,1212.6,2,2425.2,Beef Bones
+99 Rooster St. Provisions,412 : Pork Boneless Ham,2270.45,3.5,7946.6,Pork Boneless Ham
+99 Rooster St. Provisions,128 : Short Ribs,118.58,6.5,770.8,Short Ribs
+99 Rooster St. Provisions,117 : Flank Steak,113.78,8.5,967.14,Flank Steak
+99 Rooster St. Provisions,135 : Tenderloin,492.95,18,8873.1,Tenderloin
+99 Rooster St. Provisions,211 : Lamb Saddle,42.3,10,423,Lamb Saddle
+99 Rooster St. Provisions,214 : Lamb Trim,108.8,7.5,816,Lamb Trim
+99 Rooster St. Provisions,400 : Whole Hog,2062,2.5,5155,Whole Hog
+99 Rooster St. Provisions,207 : Lamb Saddle Chops,10,10,100,Lamb Saddle Chops
+99 Rooster St. Provisions,168: Happy Valley Meatballs,5,7.24,36.2,appy Valley Meatballs
+99 Rooster St. Provisions,131 : Skirt,333.99,8.5,2839.05,Skirt
+99 Rooster St. Provisions,133 : Bnls Strip Loin,414.51,14,5803.14,Bnls Strip Loin
+99 Rooster St. Provisions,213 : Lamb Shoulder,8.5,8,68,Lamb Shoulder
+99 Rooster St. Provisions,148 : Marrow Bones,63.79,2.5,159.48,Marrow Bones
+99 Rooster St. Provisions,144 : Bone in Strip,20.54,10,205.4,Bone in Strip
+99 Rooster St. Provisions,115 : Export Ribeye,1535.02,12,18420.24,Export Ribeye
+99 Rooster St. Provisions,167 : Sirloin Tip,457.62,4,1830.48,Sirloin Tip
+99 Rooster St. Provisions,419 : Pork Trim,712.45,3.16,2251.48,Pork Trim
+99 Rooster St. Provisions,405 : Pork Country Rib Rack,4.5,6,27,Pork Country Rib Rack
+99 Rooster St. Provisions,406 : Pork Center Cut Rib Rack,36,9,324,Pork Center Cut Rib Rack
+99 Rooster St. Provisions,122 : Beef Navel,49.7,6.5,323.05,Beef Navel
